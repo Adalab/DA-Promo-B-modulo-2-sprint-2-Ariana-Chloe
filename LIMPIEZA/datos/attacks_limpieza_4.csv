@@ -1,462 +1,462 @@
-,case_number,year,type,country,area,location,activity,name,age,time,species_,href,date,month,fatal_y/n,sex_m_f
-0,2018.06.25,2018,Boating,usa,California,"Oceanside, San Diego County",Paddling,Julie Wolfe,57.0,18h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.06.25-Wolfe.pdf,25-Jun-2018,Jun,N,F
-1,2018.06.03.a,2018,Unprovoked,brazil,Pernambuco,"Piedade Beach, Recife",Swimming,Jose Ernesto da Silva ,18.0,Late afternoon,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.06.03.a-daSilva.pdf,03-Jun-2018,Jun,Y,M
-2,2018.05.26.b,2018,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Walking,Cody High,15.0,17h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.05.26.b-High.pdf,26-May-2018,May,N,M
-3,2018.05.24,2018,Provoked,australia,Queensland,Cairns Aquarium,Feeding sharks,male,32.0,Morning,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.05.24-CairnsAquarium.pdf,24-May-2018,May,N,M
-4,2018.05.13.a,2018,Invalid,england,Cornwall,Off Land's End,Fishing,Max Berryman,21.0,08h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.05.13.a-Berryman.pdf,13-May-2018,May,N,M
-5,2018.04.28.b,2018,Unprovoked,costa rica,Cocos Island,Manuelita,Scuba diving,male,30.0,10h40,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.04.28.b-CostaRica.pdf,28-Apr-2018,Apr,N,M
-6,2018.04.25.a,2018,Unprovoked,australia,Western Australia,"Surfers Point, Prevelly",Surfing,Rob Bruce,60.0,09h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.04.25.a-Bruce.pdf,25-Apr-2018,Apr,N,M
-7,2018.04.23,2018,Unprovoked,maldives,Alifu Alifu Atoll,Madoogali,Fishing,Ahmed Rasheed,32.0,21h50,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.04.23-Maldives.pdf,23-Apr-2018,Apr,N,M
-8,2018.04.22,2018,Unprovoked,south africa,Western Cape Province,"Robberg Beach, Plettenberg Bay",Paddle-skiing,male,33.0,09h40,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.04.22-PlettenbergBay.pdf,22-Apr-2018,Apr,N,M
-9,2018.04.03,2018,Unprovoked,south africa,Eastern Cape Province,St. Francis Bay,Surfing,Ross Spowart,19.0,15h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.04.03-StFrancisBay.pdf,03-Apr-2018,Apr,N,M
-10,2018.03.31,2018,Unprovoked,usa,Hawaii,Kukio Beach,Stand-Up Paddleboarding,male,25.0,09h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.03.31-Hawaii.pdf,31-Mar-2018,Mar,N,M
-11,2018.03.14,2018,Unprovoked,australia,Western Australia,Waterman's Bay,Wading,Luke Guy & Finn Bald,10.0,17h35,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.03.14-WatermansBay.pdf,14-Mar-2018,Mar,N,M
-12,2018.03.09.b,2018,Unprovoked,australia,Victoria,Lorne,Swimming,Rob Crossland,25.0,15h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.03.09.b-Crossland.pdf,9-Mar-2018,Mar,N,M
-13,2018.03.09.a,2018,Unprovoked,australia,Victoria,Winkipop,Surfing,Lachie Brown,18.0,07h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.03.09.a-Weight.pdf,9-Mar-2018,Mar,N,M
-14,2018.02.23,2018,Unprovoked,australia,New South Wales,"Little Congwong Beach, La Perouse ",Swimming,Anna Shurapey ,55.0,"19h00, Dusk",white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.02.23-Shurapey.pdf,23-Feb-2018,Feb,N,F
-15,2018.02.15,2018,Unprovoked,australia,New South Wales,"Surf Beach, Kiama",Walking,Adam Hoare,35.0,16h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.02.15-Hoare.pdf,15-Feb-2018,Feb,N,M
-16,2018.01.12,2018,Unprovoked,brazil,Fernando de Noronha,Conceicao Beach,Surfing,Ricardo Ferrari Bulhoes ,20.0,Late afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2018.01.12-Bulhoes.pdf,12-Jan-2018,Jan,N,M
-17,2017.12.31,2017,Unprovoked,usa,Hawaii,"Hultin's Beach, Oahu",Surfing,Marjorie Mariano,54.0,18h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.12.31-Mariano.pdf,31-Dec-2017,Dec,N,F
-18,2017.11.24,2017,Unprovoked,usa,California,"Stillwater Cove, Monterey County",Spearfishing,Grigor Azatian,25.0,13h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.11.24-Azatian.pdf,24-Nov-2017,Nov,N,M
-19,2017.11.13,2017,Unprovoked,australia,New South Wales,Avoca Beach,Surfing,Charlie Fry,25.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.11.13-Fry.pdf,13-Nov-2017,Nov,N,M
-20,2017.11.04,2017,Unprovoked,cuba,Holquin Province,Guardalavaca Beach,Night bathing,Jesús Cabrera González ,22.0,23h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.11.04-Cuba.pdf,04-Nov-2017,Nov,Y,M
-21,2017.10.28,2017,Unprovoked,australia,New South Wales,Birubi Point,Surfing,male,31.0,09h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.10.28-Birubi.pdf,28-Oct-2017,Oct,N,M
-22,2017.10.22,2017,Unprovoked,australia,South Australia,Normanville,Kayaking / Fishing,Sarah Williams,15.0,Afternoon,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.10.22-Williams.pdf,22-Oct-2017,Oct,N,F
-23,2017.10.09,2017,Unprovoked,usa,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,Mitch Milan,54.0,18h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.10.09-Milan.pdf,09-Oct-2017,Oct,N,M
-24,2017.10.05,2017,Unprovoked,usa,Hawaii,"Kamaole Beach Park, Maui ",Snorkeling,female,40.0,12h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.10.05-Hawaii.pdf,05-Oct-2017,Oct,N,F
-25,2017.09.24.b,2017,Invalid,usa,New York,Rockaway,Surfing,Michah Behrend,33.0,15h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.09.24.b-Behrend.pdf,24-Sep-2017,Sep,Unknown,M
-26,2017.09.13,2017,Unprovoked,usa,Florida,"Ponce Inlet, Volusia County",Surfing,Benjamin Loyd,18.0,18h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.09.13-Loyd.pdf,13-Sep-2017,Sep,N,M
-27,2017.09.10.a,2017,Unprovoked,australia,New South Wales,Iluka Beach,Surfing,Abe McGrath,35.0,06h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.09.10.a-McGrath.pdf,10-Sep-2017,Sep,N,M
-28,2017.08.29,2017,Unprovoked,australia,Victoria,Cathedral Rock,Surfing,Marcel Brundler,37.0,10h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/http://sharkattackfile.net/spreadsheets/pdf_directory/2017.08.27-Brundler.pdf,29-Aug-2017,Aug,N,M
-29,2017.08.26.b,2017,Invalid,spain,Castellón,Grao de Moncofa,Swimming,female,11.0,Midday,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.08.26.b-Spain.pdf,26-Aug-2017,Aug,Unknown,F
-30,2017.08.23,2017,Unprovoked,usa,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",SUP,Cleveland Bigelow,25.0,10h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.08.23-Bigelow.pdf,23-Aug-2017,Aug,N,M
-31,2017.08.10,2017,Unprovoked,usa,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,Linton Suttle,13.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.08.10-Suttle.pdf,10-Aug-2017,Aug,N,M
+,case_number,year,type,country,area,location,activity,age,species_,date,month,fatal_y/n,sex_m_f
+0,2018.06.25,2018,Boating,usa,California,"Oceanside, San Diego County",Paddling,57.0,white shark,25-Jun-2018,Jun,N,F
+1,2018.06.03.a,2018,Unprovoked,brazil,Pernambuco,"Piedade Beach, Recife",Swimming,18.0,tiger shark,03-Jun-2018,Jun,Y,M
+2,2018.05.26.b,2018,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Walking,15.0,bull shark,26-May-2018,May,N,M
+3,2018.05.24,2018,Provoked,australia,Queensland,Cairns Aquarium,Feeding sharks,32.0,grey shark,24-May-2018,May,N,M
+4,2018.05.13.a,2018,Invalid,england,Cornwall,Off Land's End,Fishing,21.0,unspecified,13-May-2018,May,N,M
+5,2018.04.28.b,2018,Unprovoked,costa rica,Cocos Island,Manuelita,Scuba diving,30.0,tiger shark,28-Apr-2018,Apr,N,M
+6,2018.04.25.a,2018,Unprovoked,australia,Western Australia,"Surfers Point, Prevelly",Surfing,60.0,unspecified,25-Apr-2018,Apr,N,M
+7,2018.04.23,2018,Unprovoked,maldives,Alifu Alifu Atoll,Madoogali,Fishing,32.0,tiger shark,23-Apr-2018,Apr,N,M
+8,2018.04.22,2018,Unprovoked,south africa,Western Cape Province,"Robberg Beach, Plettenberg Bay",Paddle-skiing,33.0,white shark,22-Apr-2018,Apr,N,M
+9,2018.04.03,2018,Unprovoked,south africa,Eastern Cape Province,St. Francis Bay,Surfing,19.0,white shark,03-Apr-2018,Apr,N,M
+10,2018.03.31,2018,Unprovoked,usa,Hawaii,Kukio Beach,Stand-Up Paddleboarding,25.0,tiger shark,31-Mar-2018,Mar,N,M
+11,2018.03.14,2018,Unprovoked,australia,Western Australia,Waterman's Bay,Wading,10.0,unspecified,14-Mar-2018,Mar,N,M
+12,2018.03.09.b,2018,Unprovoked,australia,Victoria,Lorne,Swimming,25.0,unspecified,9-Mar-2018,Mar,N,M
+13,2018.03.09.a,2018,Unprovoked,australia,Victoria,Winkipop,Surfing,18.0,unspecified,9-Mar-2018,Mar,N,M
+14,2018.02.23,2018,Unprovoked,australia,New South Wales,"Little Congwong Beach, La Perouse ",Swimming,55.0,white shark,23-Feb-2018,Feb,N,F
+15,2018.02.15,2018,Unprovoked,australia,New South Wales,"Surf Beach, Kiama",Walking,35.0,bull shark,15-Feb-2018,Feb,N,M
+16,2018.01.12,2018,Unprovoked,brazil,Fernando de Noronha,Conceicao Beach,Surfing,20.0,unspecified,12-Jan-2018,Jan,N,M
+17,2017.12.31,2017,Unprovoked,usa,Hawaii,"Hultin's Beach, Oahu",Surfing,54.0,tiger shark,31-Dec-2017,Dec,N,F
+18,2017.11.24,2017,Unprovoked,usa,California,"Stillwater Cove, Monterey County",Spearfishing,25.0,white shark,24-Nov-2017,Nov,N,M
+19,2017.11.13,2017,Unprovoked,australia,New South Wales,Avoca Beach,Surfing,25.0,unspecified,13-Nov-2017,Nov,N,M
+20,2017.11.04,2017,Unprovoked,cuba,Holquin Province,Guardalavaca Beach,Night bathing,22.0,tiger shark,04-Nov-2017,Nov,Y,M
+21,2017.10.28,2017,Unprovoked,australia,New South Wales,Birubi Point,Surfing,31.0,unspecified,28-Oct-2017,Oct,N,M
+22,2017.10.22,2017,Unprovoked,australia,South Australia,Normanville,Kayaking / Fishing,15.0,white shark,22-Oct-2017,Oct,N,F
+23,2017.10.09,2017,Unprovoked,usa,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,54.0,tiger shark,09-Oct-2017,Oct,N,M
+24,2017.10.05,2017,Unprovoked,usa,Hawaii,"Kamaole Beach Park, Maui ",Snorkeling,40.0,unspecified,05-Oct-2017,Oct,N,F
+25,2017.09.24.b,2017,Invalid,usa,New York,Rockaway,Surfing,33.0,unspecified,24-Sep-2017,Sep,Unknown,M
+26,2017.09.13,2017,Unprovoked,usa,Florida,"Ponce Inlet, Volusia County",Surfing,18.0,unspecified,13-Sep-2017,Sep,N,M
+27,2017.09.10.a,2017,Unprovoked,australia,New South Wales,Iluka Beach,Surfing,35.0,white shark,10-Sep-2017,Sep,N,M
+28,2017.08.29,2017,Unprovoked,australia,Victoria,Cathedral Rock,Surfing,37.0,white shark,29-Aug-2017,Aug,N,M
+29,2017.08.26.b,2017,Invalid,spain,Castellón,Grao de Moncofa,Swimming,11.0,unspecified,26-Aug-2017,Aug,Unknown,F
+30,2017.08.23,2017,Unprovoked,usa,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",SUP,25.0,white shark,23-Aug-2017,Aug,N,M
+31,2017.08.10,2017,Unprovoked,usa,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,13.0,unspecified,10-Aug-2017,Aug,N,M
 32,2017.08.03,2017,Provoked,usa,Massachusetts,"Menauhant Beach, Falmouth,
-Barnstable County",Fishing,male,34.0,23h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.08.03-Massachusetts.pdf,03-Aug-2017,Aug,N,M
-33,2017.07.29.c,2017,Invalid,usa,South Carolina,"Hilton Head Island, Beaufort County",Swimming,Johnny Simatacolos,10.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.07.29.c-Simatacolos.pdf,29-Jul-2017,Jul,Unknown,M
-34,2017.07.20.b,2017,Boating,usa,California,"Stearns Wharf, Santa Barbara",Kayaking,Bret Jackson,40.0,11h20,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.07.20.b-Jackson.pdf,20-Jul-2017,Jul,N,M
-35,2017.07.20.a,2017,Unprovoked,usa,California,"Seal Rock, Goleta Beach, Santa Barbara",SUP,Rolf Geyling,50.0,07h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.07.20.a-Geyling.pdf,20-Jul-2017,Jul,N,M
-36,2017.07.09,2017,Unprovoked,usa,Florida,"Haulover Beach, Miami-Dade County",Swimming,Elvin Lanza,46.0,15h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.07.09-Lanza.pdf,09-Jul-2017,Jul,N,M
-37,2017.07.07,2017,Unprovoked,south africa,Eastern Cape Province,"Nahoon Reef, East London",Surfing,Zoe Stein,13.0,15h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.07.07-Stein.pdf,07-Jul-2017,Jul,N,F
-38,2017.06.11,2017,Unprovoked,australia,Western Australia,"Point Casuarina, Bunbury",Body boarding,Paul Goff,48.0,08h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/http://sharkattackfile.net/spreadsheets/pdf_directory/2017.06.11-Goff.pdf,11-Jun-2017,Jun,N,M
-39,2017.06.02,2017,Unprovoked,bahamas,New Providence ,Athol Island,Snorkeling,Tiffany Johnson,32.0,Shortly before 12h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.06.02-Johnson.pdf ,02-Jun-2017,Jun,N,F
-40,2017.05.03,2017,Invalid,usa,California,"Sunset Beach, Orange County",Surfing,Sophia Raab,18.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.05.03-Raab.pdf,03-May-2017,May,Unknown,F
-41,2017.04.17.a,2017,Unprovoked,australia,Western Australia,Kelpies near Wylie Bay,Surfing,Laeticia Brouwer,17.0,16h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.04.17.a Brouwer.pdf,17-Apr-2017,Apr,Y,F
-42,2017.04.14,2017,Unprovoked,usa,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,28.0,09h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.04.14-Baboo.pdf,14-Apr-2017,Apr,N,M
-43,2017.04.02.a,2017,Unprovoked,usa,Florida,"Destin, Okaloosa County",Swimming,Caitlyn Taylor,17.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.04.02.a-Taylor.pdf,02-Apr-2017,Apr,N,F
-44,2017.01.21,2017,Unprovoked,australia,Queensland,"Boot Reef, Torres Strait",Scuba Diving,Craig de Wit,55.0,12h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.01.21-MurrayIsland.pdf,21-Jan-2017,Jan,N,M
-45,2017.01.09,2017,Unprovoked,indonesia,Bali,Balian Beach,Surfing,Daniel Moore,48.0,07h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.01.09-Moore.pdf,09-Jan-2017,Jan,N,M
-46,2017.01.03,2017,Invalid,australia,New South Wales,Merimbula,Wading,Mitchell Collins,20.0,18h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2017.01.03-Collins.pdf,03-Jan-2017,Jan,Unknown,M
-47,2016.12.19,2016,Unprovoked,south africa,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing ,Ben Swart,55.0,07h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.12.19-Swart.pdf,19-Dec-2016,Dec,N,M
-48,2016.12.11.a,2016,Invalid,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Garthwait,19.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.12.11.a-Garthwait.pdf,11-Dec-2016,Dec,Unknown,M
-49,2016.12.06,2016,Provoked,australia,New South Wales,Merimbula,Surf fishing,Jesse Phillips,20.0,02h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.12.06-Phillips.pdf,06-Dec-2016,Dec,N,M
-50,2016.12.01,2016,Unprovoked,australia,New South Wales,Booti Booti National Park,Surfing,Colin Rowland,65.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.12.01-Rowland.pdf,01-Dec-2016,Dec,N,M
-51,2016.11.28,2016,Provoked,australia,Victoria,Queenscliff,Fishing,Rod McFarlane,25.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.11.28-Fisherman.pdf,28-Nov-2016,Nov,N,M
-52,2016.11.14,2016,Unprovoked,usa,Hawaii,"Kamaole Beach Park I, Maui",Floating,Barbara Zawacki,58.0,10h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.11.14-Zawacki.pdf,14-Nov-2016,Nov,N,F
-53,2016.10.21,2016,Unprovoked,usa,Hawaii,"Hooipa Beach Park, Maui",Surfing,Federico Jaime,36.0,17h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.10.21-Hookipa.pdf,21-Oct-2016,Oct,N,M
-54,2016.09.26,2016,Unprovoked,australia,New South Wales,"Lighthouse Beach, Ballina",Surfing,Cooper Allen,17.0,9h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.09.26-Allen.pdf,26-Sep-2016,Sep,N,M
-55,2016.09.11,2016,Unprovoked,usa,Florida,"Ponte Vedra, St. Johns County",Wading,male,60.0,15h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.09.11-PonteVedra.pdf,11-Sep-2016,Sep,N,M
-56,2016.09.07,2016,Unprovoked,usa,Hawaii,"Makaha, Oahu",Swimming,Lulu Bagnol,51.0,14h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.09.07-Bagnol.pdf,07-Sep-2016,Sep,N,F
-57,2016.08.29.b,2016,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey ,25.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.08.29.b-Cumiskey.pdf,29-Aug-2016,Aug,N,M
-58,2016.08.06,2016,Unprovoked,usa,Hawaii,Maui,SUP Foil boarding,Connor Baxter,21.0,16h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.08.06-Baxter.pdf,06-Aug-2016,Aug,N,M
-59,2016.07.29,2016,Unprovoked,spain,Alicante Province,Arenales del Sol,Swimming,male,40.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/http://sharkattackfile.net/spreadsheets/pdf_directory/2016.07.29-Spain.pdf,29-Jul-2016,Jul,N,M
-60,2016.07.20,2016,Provoked,australia,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,Scott van Burck,31.0,After noon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.07.20-Burck.pdf,20-Jul-2016,Jul,N,M
-61,2016.07.15.b,2016,Unprovoked,usa,California,"Surfside, Orange County",Kite surfing,Lee Frees,61.0,17h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.07.15.b-Frees.pdf,15-Jul-2016,Jul,N,M
-62,2016.07.07.b,2016,Provoked,usa,Massachusetts,"Off Gloucester, Essec County",Fishing,Roger Brissom,59.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.07.07.b-Brissom.pdf,07-Jul-2016,Jul,N,M
-63,2016.07.04,2016,Provoked,australia,Queensland,Palm Cove ,Fishing,Nathan Oliver,34.0,22h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.07.04-Oliver.pdf,04-Jul-2016,Jul,N,M
-64,2016.06.21.b,2016,Unprovoked,usa,South Carolina,"North Myrtle Beach, Horry County",Floating,Jeff Schott,42.0,15h25,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.21.b-Schott.pdf,21-Jun-2016,Jun,N,M
-65,2016.06.14,2016,Unprovoked,usa,Texas,"Pirates Beach, Galveston",Floating in tube,Marin Alice Melton,6.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.14-Melton.pdf,14-Jun-2016,Jun,N,F
-66,2016.06.11,2016,Unprovoked,usa,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,Dillon Bowen,19.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.11-Bowen.pdf,11-Jun-2016,Jun,N,M
-67,2016.06.07,2016,Invalid,usa,South Carolina,"Folly Beach, Charleston County",Surfing,Jack O'Neill,27.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.07-Oneill.pdf,07-Jun-2016,Jun,Unknown,M
-68,2016.06.05.a,2016,Unprovoked,australia,Western Australia,Mindarie,Diving,Doreen Collyer,60.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.05.a-Collyer.pdf,05-Jun-2016,Jun,Y,F
-69,2016.06.04,2016,Unprovoked,egypt,Suez,Ain Sokhna,Swimming,Omar Abdel Qader,23.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.06.04-Qader.pdf,04-Jun-2016,Jun,N,M
-70,2016.05.31,2016,Unprovoked,australia,Western Australia,"Falcon Beach, Mandurah",Surfing,Ben Gerring,29.0,16h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.31-Gerring.pdf,31-May-2016,May,Y,M
-71,2016.05.29.a,2016,Unprovoked,usa,Florida,"Neptune, Duval County",Swimming,male,13.0,15h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.29.a-Neptune.pdf,29-May-2016,May,N,M
-72,2016.05.21.b,2016,Unprovoked,usa,Florida,"St. Petersburg, Pinellas County",Swimming,Krystal Magee,22.0,18h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.21.b-Magee.pdf,21-May-2016,May,N,F
-73,2016.05.18,2016,Unprovoked,usa,Florida,"Ponte Vedra, St. Johns County",Swimming,Mark Wilson,48.0,Morning ,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.18-Wilson.pdf,18-May-2016,May,N,M
-74,2016.05.15,2016,Provoked,usa,Florida,"Boca Raton, Palm Beach County",Teasing a shark,female,23.0,13h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.15-Boca.pdf,15-May-2016,May,N,F
-75,2016.05.02,2016,Provoked,new zealand,North Island,Cormandel,Fishing,male,39.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.05.02-NZ-pdf,02-May-2016,May,N,M
-76,2016.04.25,2016,Unprovoked,indonesia,Bali,Balian,Surfing,Ryan Boarman,24.0,07h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.04.25-Boarman.pdf,25-Apr-2016,Apr,N,M
-77,2016.04.19,2016,Unprovoked,australia,New South Wales,"First Sun Beach, Byron Bay",Swimming,Zak Kedem,12.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.04.19-Kedem.pdf,19-Apr-2016,Apr,N,M
-78,2016.04.18.b,2016,Provoked,french polynesia,Tuamotos,Makemo Atoll,Spearfishing,Hoata Iotua,22.0,Morning,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.04.18.b-Iotua.pdf,18-Apr-2016,Apr,Unknown,M
-79,2016.04.18.a,2016,Provoked,french polynesia,Tuamotos,Makemo Atoll,Spearfishing,Teva Tokoragi,26.0,Morning,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.04.18.a-Tokoragi.pdf,18-Apr-2016,Apr,N,M
-80,2016.04.09,2016,Unprovoked,new caledonia,Grand Terre,Poe Beach,Walking,Nicole Malignon,25.0,10h45,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.04.09-Malignon.pdf,09-Apr-2016,Apr,Y,F
-81,2016.01.23,2016,Unprovoked,usa,Hawaii,"Wailea Beach, Maui",Paddle boarding,Matt Mason,48.0,Morning,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.01.23-Mason.pdf,23-Jan-2016,Jan,N,M
-82,2016.01.05,2016,Unprovoked,australia,Queensland,Heron Island,Wading,Nicolas Davis,11.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.01.05-Davis.pdf,05-Jan-2016,Jan,N,M
-83,2016.01.02,2016,Unprovoked,australia,Queensland,Miall Island,Spearfishing,Allan Countryman,31.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2016.01.02-Countryman.pdf,02-Jan-2016,Jan,N,M
-84,2015.12.22,2015,Unprovoked,usa,Hawaii,La'aloa Beach Park,Paddle boarding,Robert Ford,25.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.12.22-Ford.pdf,22-Dec-2015,Dec,N,M
-85,2015.12.21.b,2015,Unprovoked,australia,New South Wales,Bondi Beach,Surfing,Dean Norburn,43.0,07h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.12.21.b-Norburn.pdf,21-Dec-2015,Dec,N,M
-86,2015.11.20,2015,Unprovoked,ecuador,Galapagos Islands,"Punta Vicente Roca, Isabella Island",Snorkeling,Graham Hurley,55.0,10h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.11.20-Hurley.pdf,20-Nov-2015,Nov,N,M
-87,2015.11.10,2015,Unprovoked,australia,New South Wales,East Ballina,Surfing,Sam Morgan,20.0,18h15,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.11.10-Morgan.pdf,10-Nov-2015,Nov,N,M
-88,2015.12.23,2015,Invalid,usa,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,Ryla Underwood,9.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.11.07-Underwood.pdf,07-Nov-2015,Nov,Unknown,F
-89,2015.11.01.b,2015,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Wading,Jill Kruse,28.0,14h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.11.01.b-Kruse.pdf,01-Nov-2015,Nov,N,F
-90,2015.10.25,2015,Unprovoked,south africa,Western Cape Province,Stil Bay,Surfing,Stuart Anderson,42.0,15h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.25-Anderson.pdf,25-Oct-2015,Oct,N,M
-91,2015.10.21,2015,Unprovoked,usa,Florida,"Playalinda Beach, Brevard County",Surfing,Michael Salinger,21.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.21-Playalinda.pdf,21-Oct-2015,Oct,N,M
-92,2015.10.19,2015,Unprovoked,usa,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,21.0,13h50,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.19-Kirn.pdf,19-Oct-2015,Oct,N,M
-93,2015.10.17.b,2015,Invalid,usa,Hawaii,"Waikiki, ",Surfing,male,32.0,19h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.17.b.-Hawaii. pdf,17-Oct-2015,Oct,Unknown,M
-94,2015.10.17.a,2015,Unprovoked,usa,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,Tony Lee,44.0,11h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.17.a-Lee.pdf,17-Oct-2015,Oct,N,M
-95,2015.10.09.a,2015,Unprovoked,usa,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,25.0,10h25,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.09.a-Cook.pdf,09-Oct-2015,Oct,N,M
-96,2015.10.05.a,2015,Unprovoked,usa,Texas,Galveston,Wading,Gregory Slaughter,13.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.05-Slaughter.pdf,05-Oct-2015,Oct,N,M
-97,2015.10.04,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,14.0,08h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.10.04-Tarasovic.pdf,04-Oct-2015,Oct,N,M
-98,2015.09.29,2015,Unprovoked,usa,Florida,"Vilano Beach, St.  Johns County",Surfing,"David Morrison, Jr.",22.0,16h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.29-Morrison.pdf,29-Sep-2015,Sep,N,M
-99,2015.09.20.d,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,male,14.0,16h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.20.d-NSB.pdf,20-Sep-2015,Sep,N,M
-100,2015.09.20.c,2015,Unprovoked,usa,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing, Braxton Rocha,27.0,15h52,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.20.c-Braxton.pdf,20-Sep-2015,Sep,N,M
-101,2015.09.20.b,2015,Unprovoked,usa,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,"Joshua Bitner, Jr.",12.0,12h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.20.b-Bitner.pdf,20-Sep-2015,Sep,N,M
-102,2015.09.08,2015,Unprovoked,australia,New South Wales,North Shelly Beach,Surfing,Justin Daniels,42.0,06h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.08-Daniels.pdf,08-Sep-2015,Sep,N,M
-103,2015.09.06,2015,Unprovoked,usa,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,Caterina Gennaro,50.0,17h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.06-Gennaro.pdf,06-Sep-2015,Sep,N,F
-104,2015.09.05,2015,Provoked,usa,California,"Deer Creek Beach, Ventura County",Kayak Fishing,Dylan Marks,29.0,14h40,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.05-Marks.pdf,05-Sep-2015,Sep,N,M
-105,2015.09.04,2015,Unprovoked,australia,New South Wales,Hallidays Point,Surf-skiing,David Quinliven,62.0,11h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.04-Quinliven.pdf,04-Sep-2015,Sep,N,M
-106,2015.09.01,2015,Unprovoked,thailand,Phuket,Karon Beach,Wading,Jane Neame,37.0,08h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.09.01-Neame.pdf,01-Sep-2015,Sep,N,F
-107,2015.08.29.b,2015,Unprovoked,usa,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,54.0,10h25,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.29.b-Dempsey.pdf,29-Aug-2015,Aug,N,F
-108,2015.08.29.a,2015,Unprovoked,usa,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,21.0,10h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.29.a-Phillips.pdf,29-Aug-2015,Aug,N,M
-109,2015.08.20,2015,Unprovoked,usa,South Carolina,"Murrells Inlet, Georgetown County",Surfing,Dylan Peyton,15.0,12h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.20-Peyton.pdf,20-Aug-2015,Aug,N,M
-110,2015.08.19,2015,Unprovoked,usa,Florida,"Jacksonville Beach, Duval County",Walking,Kaley Szarmack,10.0,15h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.19-Szsarmack,19-Aug-2015,Aug,N,F
-111,2015.08.18.b,2015,Boating,usa,California,Santa Barbara County,Kayak Fishing,Connor Lyon,22.0,07h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.18.b-Lyon.pdf,18-Aug-2015,Aug,N,M
-112,2015.08.18.a,2015,Invalid,spain,Alicante,"Poniente Beach, Benidorm",Swimming,male,10.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.18.a-Benidorm.pdf,18-Aug-2015,Aug,Unknown,M
-113,2015.08.10,2015,Provoked,usa,California,Cortes Bank,Spearfishing,Richard Shafer,57.0,08h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.08.10-Shafer.pdf,10-Aug-2015,Aug,N,M
-114,2015.07.31,2015,Unprovoked,australia,New South Wales,Evans Head,Surfing,Craig Ison,52.0,06h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.31-Ison.pdf,31-Jul-2015,Jul,N,M
-115,2015.07.26.b,2015,Unprovoked,usa,Florida,"Daytona Beach, Volusia County",Surfing,Shawn Warrilow,25.0,19h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.26.b-Warrilow.pdf,26-Jul-2015,Jul,N,M
-116,2015.07.26.a,2015,Invalid,usa,South Carolina,"Edisto Beach, Colleton County",Floating,female,35.0,10h10,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.26.a-Edisto.pdf,26-Jul-2015,Jul,Unknown,F
-117,2015.07.25,2015,Unprovoked,australia,Tasmania,"Lachan Island, Mercury Passage",Scallop diving on hookah,Damien Johnson,46.0,10h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.25-Johnson.pdf,25-Jul-2015,Jul,Y,M
-118,2015.07-10,2015,Unprovoked,usa,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,38.0,08h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.10-Miskin.pdf,10-Jul-2015,Jul,N,M
-119,2015.07.03,2015,Unprovoked,australia,New South Wales,Lennox Head,Surfing,Michael Hoile,52.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.03-Hoile.pdf,03-Jul-2015,Jul,N,M
-120,2015.07.02,2015,Unprovoked,australia,New South Wales,East Ballina,Body boarding ,Matt Lee,32.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.02-Matt-Lee.pdf,02-Jul-2015,Jul,N,M
-121,2015.07.01,2015,Unprovoked,usa,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,Andrew Costello,25.0,12h10,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.07.01-Costello.pdf,01-Jul-2015,Jul,N,M
-122,2015.06.30.a,2015,Unprovoked,usa,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,Kysen Weakley,12.0,18h05,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.30.a.pdf-Weakley.pdf,30-Jun-2015,Jun,N,M
-123,2015.06.27.b,2015,Unprovoked,usa,North Carolina,"Rodanthe, Dare County",Swimming,John Cole,18.0,16h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.27.b-Rodanthe.pdf,27-Jun-2015,Jun,N,M
-124,2015.06.27.a,2015,Unprovoked,south africa,Western Cape Province,Buffels Bay near Knysna,Body Boarding,Caleb Swanepoel,19.0,14h40,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.27-Swanepoel.pdf,27-Jun-2015,Jun,N,M
-125,2015.06.26.b,2015,Unprovoked,south africa,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,Dylan Reddering,23.0,16h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.26.b-Reddering.pdf,26-Jun-2015,Jun,N,M
-126,2015.06.26.a,2015,Unprovoked,usa,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,"Lance Donahue, Jr",43.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.26.a-Donahue.pdf,26-Jun-2015,Jun,N,M
-127,2015.06.24.b,2015,Unprovoked,usa,North Carolina,Surf City,Swimming,Brady Noyes,6.0,12h25,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.24.b-Noyes.pdf,24-Jun-2015,Jun,N,M
-128,2015.06.24.a,2015,Invalid,australia,Western Australia,Denmark,Surfing,Lily Kumpe,37.0,09h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.24.a-Kumpe.pdf,24-Jun-2015,Jun,N,F
-129,2015.06.14.b,2015,Unprovoked,usa,North Carolina,"Oak Island, Brunswick County",Wading,Hunter Treschel,16.0,17h51,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.14.b-Treschel.pdf,14-Jun-2015,Jun,N,M
-130,2015.06.14.a,2015,Unprovoked,usa,North Carolina,"Oak Island, Brunswick County",Wading,Kiersten Yow,12.0,16h12,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.14.a-Yow.pdf,14-Jun-2015,Jun,N,F
-131,2015.06.11,2015,Unprovoked,usa,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,girl,13.0,12h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.11-OceanIsle.pdf,11-Jun-2015,Jun,N,F
-132,2015.06.07,2015,Unprovoked,usa,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,Lucas Vertullo,11.0,10h50,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.07-Vertullo.pdf,07-Jun-2015,Jun,N,M
-133,2015.06.01,2015,Unprovoked,reunion,Le Port,Folette,Surfing,Eddy Chaussalet,47.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.06.01-Chaussalet.pdf,01-Jun-2015,Jun,N,M
-134,2015.05.25,2015,Unprovoked,french polynesia,Rangiroa,Avatoru Pass,Spearfishing,male,19.0,08h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.05.25-Rangiroa.pdf,25-May-2015,May,N,M
-135,2015.05.20,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Matthew Zaccaria,18.0,10h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.05.20-Zaccaria.pdf,20-May2015,,N,M
-136,2015.05.02,2015,Unprovoked,south africa,Eastern Cape Province,Port St. John's,Diving,Mathieu Dasnois,29.0,13h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.05.02-Dasnois.pdf,02-May-2015,May,N,M
-137,2015.04.26,2015,Unprovoked,usa,Florida,"Resident's Beach, Marco Island",Wading,Carsten Jessen,63.0,16h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.04.26-Jessen.pdf,26-Apr-2015,Apr,N,M
-138,2015.04.25,2015,Unprovoked,australia,South Australia,Fishery Bay,Surfing,Chris Blowes ,26.0,09h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.04.25-Blowes.pdf,25-Apr-2015,Apr,N,M
-139,2015.04.24.c,2015,Unprovoked,australia,New South Wales,"Belongil Beach, Byron Bay",Surf skiing ,Woody Vidgens,25.0,11h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.04.24.c-Vidgens.pdf,24-Jun-2015,Jun,N,M
-140,2015.04.12,2015,Unprovoked,reunion,Saint-Gilles-les-Bains,Cap Homard,Surfing,Elio Canestri,13.0,09h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.04.12-Canestri.pdf,12-Apr-2015,Apr,Y,M
-141,2015.04.03,2015,Unprovoked,usa,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,Rick Neumann,25.0,Afternoon,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.04.03-Neumann.pdf,03-Apr-2015,Apr,N,M
-142,2015.03.31,2015,Invalid,brazil,Pernambuco,"Praia del Chifre, Olinda",Surfing,Diego Gomes Mota,23.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.03.31-Mota.pdf,31-Mar-2015,Mar,Unknown,M
-143,2015.03.18,2015,Unprovoked,usa,Hawaii,Hapuna Beach,Standing / Snorkeling,Ken Grasing,58.0,11h45,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.03.18-Grasing.pdf,18-Mar-2015,Mar,N,M
-144,2015.03.16,2015,Unprovoked,french polynesia,Bora Bora,Anau,Hand feeding sharks,male,9.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.03.16-Bora-Bora.pdf,16-Mar-2015,Mar,N,M
-145,2015.02.14,2015,Unprovoked,reunion,dÉtang-Salé,Ravine Mula,Swimming,Talon Bishop,22.0,18h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.02.14-Bishop.pdf ,14-Feb-2015,Feb,Y,F
-146,2015.02.09,2015,Unprovoked,australia,New South Wales,Shelly Beach,Surfing,Tadashi Nakahara,41.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.02.09-Nakahara.pdf,09-Feb-2015,Feb,Y,M
-147,2015.02.08,2015,Unprovoked,australia,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,Jacob Reitman,35.0,06h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.02.08-Reitman.pdf,08-Feb-2015,Feb,N,M
-148,2015.01.30,2015,Boating,australia,Queensland,"Nerang River, Surfer's  Paradise",Rowing,Racing scull: Occupant Trevor Carter,57.0,05h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.01.20-Carter.pdf,30-Jan-2015,Jan,N,M
-149,2015.01.27,2015,Provoked,usa,Hawaii,Lahaina,Shark fishing,Michael Pollard,20.0,03h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.01.27-Pollard.pdf,27-Jan-2015,Jan,N,M
-150,2015.01.06,2015,Unprovoked,bahamas,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,Lacy Webb,34.0,16h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.01.06-Webb-Martin.pdf,06-Jan-2015,Jan,N,F
-151,2015.01.03,2015,Unprovoked,south africa,Eastern Cape Province,Chintsa East Beach,Surfing,Jason Krafft,15.0,08h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2015.01.03-Krafft.pdf,03-Jan-2015,Jan,N,M
-152,2014.12.29.a,2014,Unprovoked,australia,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,Jay Muscat,17.0,Morning,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.12.29.a-Muscat.pdf,29-Dec-2014,Dec,Y,M
-153,2014.12.28.b,2014,Unprovoked,usa,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,Kevin Swanson,50.0,11h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.12.28.b-Swanson.pdf,28-Dec-2014,Dec,N,M
-154,2014.12.28.a,2014,Provoked,australia,Victoria,Paradise Beach,Fishing,male,40.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.12.28.a-ParadiseBeach.pdf,28-Dec-2014,Dec,N,M
-155,2014.12.15,2014,Unprovoked,australia,Queensland,Rudder Reef,Spearfishing,Daniel Smith,17.0,11h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.12.15-DanielSmith.pdf,15-Dec-2014,Dec,Y,M
-156,2014.11.16,2014,Unprovoked,usa,Florida,"Indian Harbor Beach, Brevard County",Surfing,male,44.0,13h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.11.16-IndianHarbor.pdf,16-Nov-2014,Nov,N,M
-157,2014.11.13,2014,Unprovoked,usa,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,Andrew Haas,53.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.11.13-Hawaii.pdf,13-Nov-2014,Nov,N,M
-158,2014.10.31,2014,Unprovoked,usa,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,34.0,11h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.31-Clark.pdf,31-Oct-2014,Oct,N,F
-159,2014.10.17,2014,Unprovoked,australia,New South Wales,Avoca Beach,Surfing,Kirra-Belle Olsson,13.0,06h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.14-Bandy.pdf,17-Oct-2014,Oct,N,F
-160,2014.10.05.b,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,29.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.05.b-Ross.pdf,05-Oct-2014,Oct,N,M
-161,2014.10.05.a,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,15.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.05.a-Mantooth.pdf,05-Oct-2014,Oct,N,M
-162,2014.10.02.b,2014,Unprovoked,usa,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M.M.,28.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.02.b-Vandenberg.pdf,02-Oct-2014,Oct,N,M
-163,2014.10.02.a,2014,Unprovoked,australia,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,Sean Pollard,23.0,11h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.10.02.a-Pollard.pdf,02-Oct-2014,Oct,N,M
-164,2014.09.09,2014,Unprovoked,australia,New South Wales,"Clarkes Beach, Byron Bay",Swimming,Paul Wilcox,50.0,10h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.09.09-Wilcox.pdf,09-Sep-2014,Sep,Y,M
-165,2014.09.06,2014,Unprovoked,usa,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing ,Jamie Robson,43.0,13h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.09.06-Robson.pdf,06-Sep-2014,Sep,N,M
-166,2014.09.03,2014,Boating,usa,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,Ida Parker & Kristen Orr,20.0,18h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.09.03-Plymouthkayakers.pdf,03-Sep-2014,Sep,N,F
-167,2014.09.02,2014,Provoked,usa,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,male,52.0,20h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.09.02-FletcherBeach.pdf,02-Sep-2014,Sep,N,M
-168,2014.08.31,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Body surfing,Alexandra Masterson,13.0,16h40,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.08.31-Masterson.pdf,31-Aug-2014,Aug,N,F
-169,2014.08.08,2014,Unprovoked,usa,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,Trent Trentacosta,7.0,Afternoon,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.08.08-Trentacosta.pdf,08-Aug-2014,Aug,N,M
-170,2014.08.06,2014,Unprovoked,usa,South Carolina,"Folly Beach, Charleston County",Boogie boarding,Riley Harris,10.0,14h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.08.14-Harris.pdf,06-Aug-2014,Aug,N,M
-171,2014.08.01,2014,Unprovoked,south africa,Western Cape Province,Muizenberg,Surfing,Matthew Smithers,20.0,14h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.08.01-Smithers.pdf,01-Aug-2014,Aug,N,M
-172,2014.07.16,2014,Unprovoked,usa,Hawaii,"Paia Bay, Maui",Swimming,male,61.0,17h50,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.07.16-Maui.pdf,16-Jul-2014,Jul,N,M
-173,2014.07.14,2014,Unprovoked,usa,Florida,Okaloosa Island,Swimming,Terrell Moore,39.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.07.14-Moore.pdf,14-Jul-2014,Jul,N,M
-174,2014.07.13,2014,Invalid,bahamas,West End,Tiger Beach,Shark diving,John Petty,63.0,Night,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.07.13-Petty.pdf,13-Jul-2014,Jul,Unknown,M
-175,2014.07.03,2014,Unprovoked,usa,South Carolina,"Isle of Palms, Charleston County",Body surfing,Christian Fairbourne,19.0,18h15-18h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.07.03-Fairbourne.pdf,3-Jul-2014,Jul,N,M
-176,2014.06.09.b,2014,Unprovoked,usa,Delaware,"Cape Henlopen State Park, Sussex County",Standing,Andrew Vance,16.0,17h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.06.09.b-Vance.pdf,09-Jun-2014,Jun,N,M
-177,2014.06.09.a,2014,Unprovoked,australia,South Australia,"Parsons Beach,  Fleurieu Peninsula",Body boarding,Scott Berry,39.0,09h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.06.09-Berry.pdf,09-Jun-2014,Jun,N,M
-178,2014.06.01.c,2014,Unprovoked,usa,Florida,Fort Lauderdale,Swimming,Jessica Vaughn,22.0,13h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.06.01.c-Vaughn.pdf,01-Jun-2014,Jun,N,F
-179,2014.05.14,2014,Unprovoked,australia,South Australia,"Elliston, Eyre Peninsula",Surfing,Andrew McLeod,35.0,09h30,white shark,"http://sharkattackfile.net/spreadsheets/pdf_directory/2014.05.14-McLeod, pdf",14-May-2014,May,N,M
-180,2014.05.06,2014,Unprovoked,usa,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Kimberly Popp,40.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.05.06-Popp.pdf,06-May-2014,May,N,F
-181,2014.05.01,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Nolet,23.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.05.01-Nolet.pdf,01-May-2014,May,N,M
-182,2014.04.03,2014,Unprovoked,australia,New South Wales,Tathra,Swimming,Christine Armstrong,63.0,08h20,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/http://sharkattackfile.net/spreadsheets/pdf_directory/2014.04.03-Armstrong.pdf,03-Apr-2014,Apr,Y,F
-183,2014.03.29,2014,Invalid,australia,Western Australia,Off Dawesville Cut,Diving for lobsters,Michael McGregor,38.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.03.29-WesternAustralia.pdf,29-Mar-2014,Mar,Unknown,M
-184,2014.03.22.b,2014,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,Friedrich Burgstaller.,25.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.03.22.b-SecondBeach.pdf,22-Mar-2014,Mar,Y,M
-185,2014.02.20,2014,Unprovoked,french polynesia,Society Islands,Huahine,Kitesurfing,male,21.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2014.02.20-FrenchPolynesia.pdf,20-Feb-2014,Feb,N,M
-186,2014.02.07,2014,Unprovoked,new zealand,South Island,Porpoise Bay,Surfing,Darren Mills,28.0,20h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/w014.01.25-Grant.pdf,07-Feb-2014,Feb,N,M
-187,2013.12.25,2013,Unprovoked,new caledonia,North Province,"Lindéralique, Hienghène",Snorkeling,Loïc Merlet,37.0,11h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.12.25-NewCaledonia.pdf ,25-Dec-2013,Dec,N,M
-188,2013.12.16,2013,Unprovoked,south africa,Western Cape Province,Die Platt,Surfing,Thomas Browne,19.0,08h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.12.16-Browne.pdf,16-Dec-2013,Dec,N,M
-189,2013.12.11,2013,Unprovoked,usa,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,male,29.0,08h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.12.11-Hawaii.pdf,11-Dec-2013,Dec,N,M
-190,2013.12.10,2013,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Surfing,Bobby Baughman,30.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.12.10-Baughman.pdf,10-Dec-2013,Dec,N,M
-191,2013.12.05,2013,Unprovoked,australia,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,male,26.0,18h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.12.05-PortMacquarie.pdf,05-Dec-2013,Dec,N,M
-192,2013.11.30,2013,Unprovoked,australia,New South Wales,"Riecks Point,  Campbells Beach, ",Body boarding,Zac Young,19.0,14h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.11.30-ZacYoung.pdf,30-Nov-2013,Nov,Y,M
-193,2013.11.23.a,2013,Unprovoked,australia,Western Australia,Gracetown,Surfing,Chris Boyd,35.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.11.23.a-Boyd.pdf,23-Nov-2013,Nov,Y,M
-194,2013.11.22,2013,Unprovoked,usa,Oregon,"Gleneden Beach, Lincoln County",Surfing,Andrew Gardiner,25.0,10h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.11.22-Gardiner,22-Nov-2013,Nov,N,M
-195,2013.10.31,2013,Unprovoked,usa,Hawaii,"Kanaha Beach, Maui",Kiteboarding,Christian Brandon,46.0,15h19,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.31-ChristianBrandon,31-Oct-2013,Oct,N,M
-196,2013.10.28,2013,Unprovoked,australia,Western Australia,Turquoise Bay,Snorkeling,Glenda Simmons,60.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.28-Simmons,28-Oct-2013,Oct,N,F
-197,2013.10.26.b,2013,Unprovoked,reunion,dÉtang-Salé,Ravine Mula,Body boarding,Gicquel Tanguy,24.0,16h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.26.b-Tanguy,26-Oct-2013,Oct,N,M
-198,2013.10.24,2013,Unprovoked,australia,New South Wales,South Narrabeen Beach,Surfing,Anthony Joyce,41.0,18h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.24-Joyce.pdf,24-Oct-2013,Oct,N,M
-199,2013.10.23,2013,Unprovoked,usa,Hawaii,"Waiehu, Maui",Diving ,Shane Mills,45.0,15h55,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.23-ShaneMills.pdf,23-Oct-2013,Oct,N,M
-200,2013.10.20,2013,Unprovoked,usa,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,25.0,11h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.20-Horton.pdf,20-Oct-2013,Oct,N,M
-201,2013.10.19,2013,Unprovoked,usa,Florida,Miami Beach,Wading,Logan Hamby,6.0,Late afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.19-Hamby.pdf,19-Oct-2013,Oct,N,M
-202,2013.10.11,2013,Unprovoked,south africa,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Swimming / snorkeling,Burgert Van Der Westhuizen,25.0,11h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.11-Vd-Westhuizen.pdf,11-Oct-2013,Oct,Y,M
-203,2013.10.08,2013,Unprovoked,australia,Western Australia,"Off Poison Creek, Cape Arid",Diving for Abalone,Greg Pickering,55.0,10h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.08-Pickering.pdf,08-Oct-2013,Oct,N,M
-204,2013.10.05,2013,Unprovoked,usa,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,45.0,08h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.10.06-Scrivner.pdf,06-Oct-2013,Oct,N,M
-205,2013.09.14,2013,Unprovoked,usa,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,Trevor Kalck,21.0,15h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.09.14-Kalck.pdf, 14-Sep-2013,Sep,N,M
-206,2013.09.12,2013,Unprovoked,usa,Florida,"New Smyrna Beach,  Volusia County",Surfing,Storm Portman,13.0,13h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.09.12-Portman.pdf, 12-Sep-2013,Sep,N,F
-207,2013.09.07.b,2013,Provoked,usa,Florida,"New Smyrna Beach,  Volusia County",Surfing,John Graham,43.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.09.07.b-Graham.pdf, 07-Sep-2013,Sep,N,M
-208,2013.09.07.a,2013,Unprovoked,usa,Florida,"New Smyrna Beach,  Volusia County",Standing,Marco Edmundo Cardiel,25.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.09.07.a-Cardiel.pdf, 07-Sep-2013,Sep,N,M
-209,2013.09.01.a,2013,Unprovoked,usa,Florida,"St Augustine Beach, St Johns County",Casting a net,Connor Baker,9.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.09.01.a-Baker.pdf, 01-Sep-2013,Sep,N,M
-210,2013.08.14,2013,Unprovoked,usa,Hawaii,"Makenat, Maui",Snorkeling,Jana Lutteropp,20.0,16h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.08.14-Lutteropp.pdf, 14-Aug-2013,Aug,Y,F
-211,2013.08.11,2013,Unprovoked,usa,South Carolina,Folly Beach,Surfing,Tyson Royston,10.0,17h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.08.11-Royston.pdf,11-Aug-2013,Aug,N,M
-212,2013.08.05,2013,Unprovoked,usa,Florida,"Sanibel Island, Lee County",Fishing,Christian Mercurio,17.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.08.05-Mercurio.pdf, 05-Aug-2013,Aug,N,M
-213,2013.07.29.c,2013,Unprovoked,bahamas,Abaco Islands,Scotland Cay,Spearfishing,Erik Norrie,40.0,16h05,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.07.29.c-Norrie.pdf,28-Jul-2013,Jul,N,M
-214,2013.07.29.a,2013,Unprovoked,usa,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,18.0,14h10,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.07.29.a-Gatewood,  29-Jul-2013,Jul,N,M
-215,2013.07.28.b,2013,Unprovoked,bahamas,Exuma Islands,Compass Cay,Cleaning fish,male,64.0,16h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.07.28.b-Bahamas.pdf,28-Jul-2013,Jul,N,M
-216,2013.06.25.a,2013,Unprovoked,usa,South Carolina,"Kiawah Island, Charleston County",Swimming,Joshua Watson,14.0,12h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.06.25.a-Watson.pdf,25-Jun-2013,Jun,N,M
-217,2013.06.18,2013,Unprovoked,usa,Hawaii,Kona Coast State Park,Swimming,James Kerrigan,28.0,12h50,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.06.18-Kerrigan.pdf,18-Jun-2013,Jun,N,M
-218,2013.06.14.R,2013,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,Allison Foreman,10.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.06.14.R-Foreman.pdf,Reported 14-Jun-2013,Jun,N,F
-219,2013.05.14,2013,Unprovoked,ecuador,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,Intriago Diego,29.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.05.14-Diego.pdf,14-May-2014,May,N,M
-220,2013.05.08.a,2013,Unprovoked,reunion,Saint-Gilles,Brisant Beach,Body boarding,Stéphane Berhamel,36.0,08h20,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.05.08.a-Berhamel.pdf,08-May-2013,May,Y,M
-221,2013.05.04.a,2013,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Adler,16.0,11h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.05.04-Adler.pdf,04-May-2013,May,N,M
-222,2013.04.24,2013,Unprovoked,mexico,Quintana Roo,"Seagull Beach, Cancun",Swimming,Isabella Carchia,34.0,13h40,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.24-Carchia.pdf,24-Apr-2013,Apr,N,F
-223,2013.04.21,2013,Unprovoked,australia,New South Wales,Crowdy Head,Fishing,Alan Saunders,51.0,14h00,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.21-Saunders.pdf,21-Apr-2013,Apr,N,M
-224,2013.04.17,2013,Unprovoked,usa,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,Colten Cicarelli,9.0,10h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.17-Cicarelli.pdf,17-Apr-2013,Apr,N,M
-225,2013.04.13.b,2013,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,21.0,13h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.13.b-JoshuaWhite.pdf,13-Apr-2013,Apr,N,M
-226,2013.04.10,2013,Unprovoked,french polynesia,Tuamotus,"North Pass, Fakarava",Kite boarding,Nick Eitel,53.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.10-Eitel.pdf,10-Apr-2013,Apr,N,M
-227,2013.04.02.a,2013,Unprovoked,usa,Hawaii,Kaanapali Shores,Surfing,male,58.0,08h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.04.02.a-Hawaii.pdf,02-Apr-2013,Apr,N,M
-228,2013.03.16.b,2013,Provoked,south africa,Western Cape Province,De Mond,Fishing - 'tag & release',Kobus Koeberg,30.0,09h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.03.16.b-Koeberg.pdf,16-Mar-2013,Mar,N,M
-229,2013.03.12,2013,Unprovoked,jamaica,St. Catherine,Pillikin Red Light area ,Spearfishing,George Facey,25.0,09h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.03.12-Facey.pdf,12-Mar-2013,Mar,Y,M
-230,2013.03.10.b,2013,Unprovoked,australia,Western Australia,African Reef off Geraldton,Spearfishing,Adam Thomason,28.0,09h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.03.10.b-Thomason.pdf,10-Mar-2013,Mar,N,M
-231,2013.02.27,2013,Unprovoked,new zealand,North Island,Muriwai,Swimming,Adam Strange,46.0,13h24,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.02.27-Strange.pdf,27-Feb-2013,Feb,Y,M
-232,2013.02.10,2013,Unprovoked,usa,Florida,"""Stuart Rocks"", Martin County",Surfing,Cole Taschman,16.0,14h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.02.10-Taschman.pdf,10-Feb-2013,Feb,N,M
-233,2013.02.09,2013,Unprovoked,french polynesia,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",Scuba diving,Zohar Kritzer ,48.0,09h00 - 09h30,lemon shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.02.09-Kritzer.pdf,09-Feb-2013,Feb,N,M
-234,2013.01.16,2013,Unprovoked,usa,Hawaii,Kiholo Bay,Surfing,Paul Santos,43.0,16h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2013.01.16-Santos.pdf,16-Jan-2013,Jan,N,M
-235,2012.12.30,2012,Unprovoked,australia,New South Wales,Between Dee Why and Long Reef,Surfing,Danny Sheather,23.0,12h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.12.30-Sheather.pdf,30-Dec-2012,Dec,N,M
-236,2012.12.28,2012,Unprovoked,australia,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,Luke Allan,29.0,10h45,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.12.28-Luke-Allan.pdf,28-Dec-2012,Dec,N,M
-237,2012.12.19,2012,Unprovoked,australia,Western Australia,Trigg Beach,Surfing,Richard Wands,32.0,0830,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.12.19-Wands.pdf,19-Dec-2012,Dec,N,M
-238,2012.12.05,2012,Unprovoked,usa,Hawaii,Kauai,Surfing,"""Lorrin""",60.0,13h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.12.05-Kauai.pdf,05-Dec-2012,Dec,N,M
-239,2012.12.02,2012,Unprovoked,australia,New South Wales,Green Island,Spearfishing,male,31.0,16h45,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.12.02-Green-Island.pdf,02-Dec-2012,Dec,N,M
-240,2012.11.30,2012,Unprovoked,usa,Hawaii,"Kihei, Maui",Snorkeling,Thomas Floyd Kennedy ,61.0,09h40,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.11.30-Kennedy.pdf,30-Nov-2012,Nov,N,M
-241,2012.11.22,2012,Unprovoked,mexico,Sinaloa,Nuevo Altata,Swimming,Fernando Cardenas Garcia,32.0,11h40,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.11.22-Garcia.pdf,22-Nov-2012,Nov,Y,M
-242,2012.11.19,2012,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,Kai Rittgers,14.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.11.19-Rittgers.pdf,19-Nov-2012,Nov,N,M
-243,2012.11.04.b,2012,Unprovoked,usa,Hawaii,"Makena Landing, Maui",Diving,Mark Riglos,30.0,08h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.11.04.b-Riglos.pdf,04-Nov-2012,Nov,N,M
-244,2012.11.04.a,2012,Unprovoked,usa,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,43.0,08h10,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.11.04.a-Kekaha.pdf,04-Nov-2012,Nov,N,M
-245,2012.10.30,2012,Unprovoked,usa,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,25.0,12h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.10.30-Stephens.pdf,30-Oct-2012,Oct,N,M
-246,2012.10.27,2012,Unprovoked,usa,Hawaii,"Makena Landing, Maui",Swimming,Mariko Haugen ,51.0,15h56,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.10.27-Haugen.pdf,27-Oct-2012,Oct,N,F
-247,2012.10.23,2012,Unprovoked,usa,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,39.0,11h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.10.23-Solorio.pdf,23-Oct-2012,Oct,Y,M
-248,2012.10.18.a,2012,Unprovoked,usa,Hawaii,"Kanaha Beach, Maui",Paddle boarding,David Peterson,55.0,07h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.10.18.a-Peterson.pdf,18-Oct-2012,Oct,N,M
-249,2012.10.02,2012,Unprovoked,australia,Western Australia,"Mullaloo Beach, Perth",Bodyboarding,Andrew Gavriliu,11.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.10.02-Gavriliu.pdf,02-Oct-2012,Oct,N,M
-250,2012.09.25,2012,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,Brandon Taylor,21.0,16h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.09.25-Taylor.pdf,25-Sep-2012,Sep,N,M
-251,2012.09.24,2012,Unprovoked,usa,Florida,"Spanish House Beach, Brevard County",Surfing,Brandon Murray,22.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.09.24-Murray.pdf,24-Sep-2012,Sep,N,M
-252,2012.09.02.b,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,female,8.0,18h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.09.02.b-NSB-girl.pdf,02-Sep-2012,Sep,N,F
-253,2012.09.02.a,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,female,56.0,16h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.09.02.a-NSB-Woman.pdf,02-Sep-2012,Sep,N,F
-254,2012.08.09,2012,Unprovoked,usa,Florida,Key Largo,Free diving ,"David Lowe, Sr.",56.0,1600,lemon shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.08.09-Lowe.pdf,08-Aug-2012,Aug,N,M
-255,2012.07.31.a,2012,Unprovoked,australia,South Australia,Streaky Bay,Surfing,John Campion,48.0,14h40,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.07.31.a-Campion.pdf,31-Jul-2012,Jul,N,M
-256,2012.07.30.a,2012,Unprovoked,usa,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,Chris Myers,50.0,15h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.07.30.a-Myers.pdf,30-Jul-2012,Jul,N,M
-257,2012.07.14,2012,Unprovoked,australia,Western Australia,Off Wedge Island,Surfing,Ben Linden,24.0,09h05,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.07.14-Linden.pdf,14-Jul-2012,Jul,Y,M
-258,2012.07.07.a,2012,Boating,usa,California,"Pleasure Point, Santa Cruz County",Kayaking,M.C.,52.0,08h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.07.07.a-SantaCruz.pdf,07-Jul-2012,Jul,N,M
-259,2012.07.06,2012,Unprovoked,south africa,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,Jacque Mostert,29.0,16h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.07.06-Mostert.pdf,06-Jul-2012,Jul,N,M
-260,2012.06.26.c,2012,Unprovoked,usa,Florida,"Juno Beach, Palm Beach County",Swimming,Nickolaus Bieber ,6.0,19h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.26.c-Bieber.pdf,26-Jun-2012,Jun,N,M
-261,2012.06.26.a,2012,Unprovoked,usa,Hawaii,"Kahana Beach, Maui",Sitting in the water,Sage St. Clair,16.0,09h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.26.a-StClair.pdf,26-Jun-2012,Jun,N,F
-262,2012.06.20,2012,Unprovoked,australia,Western Australia,"Mullaloo Beach, Perth",Surf skiing ,Martin Kane,62.0,07h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.20-Kane.pdf,20-Jun-2012,Jun,N,M
-263,2012.06.15,2012,Provoked,usa,Florida,"Summerland Key, Monroe County",Fishing,male,23.0,14h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.15-SummerlandKey.pdf,15-Jun-2012,Jun,N,M
-264,2012.06.14.d,2012,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Swimming,female,18.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.14.d-female-MyrtleBeach.pdf,14-Jun-2012,Jun,N,F
-265,2012.06.14.a,2012,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Swimming,Jordon Garosalo,16.0,13h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.14.a-Garosalo.pdf,14-Jun-2012,Jun,N,M
-266,2012.06.12,2012,Unprovoked,australia,Victoria,Port Campbell,Surfing,Mike Higgins,42.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.12-Higgins.pdf,12-Jun-2012,Jun,N,M
-267,2012.06.10,2012,Provoked,italy,Sardinia,Muravera,Attempting to rescue an injured & beached shark,Giorgio Zara,57.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.10-Zara.pdf,10-Jun-2012,Jun,Unknown,M
-268,2012.06.03,2012,Unprovoked,australia,New South Wales,"Redhead Beach, Newcastle",Surf skiing ,Mark Ayre,30.0,14h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.06.03-Ayre.pdf,03-Jun-2012,Jun,N,M
-269,2012.05.31,2012,Unprovoked,usa,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,Megan Konkler,33.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.05.31-Konkler.pdf,31-May-2012,May,N,F
-270,2012.05.29,2012,Unprovoked,mexico,Guerrero," Boca de la Leña, La Unión",Free diving / spearfishing,Benigno Medina Navarrete ,46.0,09h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.05.29-Navarrette.pdf,29-May-2012,May,N,M
-271,2012.05.23,2012,Unprovoked,usa,Florida,"Jacksonville, Duval County",Surfing,Chad Refro,22.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.05.23-Renfro.pdf,23-May-2012,May,N,M
-272,2012.05.12,2012,Boating,usa,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,Joey Nocchi,30.0,14h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.05.12-Nocchi.pdf,12-May-2012,May,N,M
-273,2012.05.06,2012,Unprovoked,usa,California,Off Catalina Island,Paddle boarding,Rose McKereghan,15.0,07h20,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.05.06-McKereghan.pdf,06-May-2012,May,N,F
-274,2012.04.19.b,2012,Unprovoked,usa,Florida,"Indialantic, Brevard County",Surfing,Justin Ellingham,28.0,19h28,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.04.19.b-Ellingham.pdf,19-Apr-2012,Apr,N,M
-275,2012.04.19.a,2012,Unprovoked,south africa,Western Cape Province,Caves near Kogel Bay,Body boarding,David Lilienfeld ,20.0,12h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.04.19.a-Lilienfeld.pdf,19-Apr-2012,Apr,Y,M
-276,2012.04.03,2012,Unprovoked,usa,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,28.0,12h38,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.04.03-Holley.pdf,03-Apr-2012,Apr,N,M
-277,2012.03.31,2012,Unprovoked,australia,Western Australia,Stratham Beach,Scuba diving,Peter Kurmann,33.0,09h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.31-Kurmann.pdf,31-Mar-2012,Mar,Y,M
-278,2012.03.20,2012,Unprovoked,australia,Queensland,Nobby's Beach,Surfing,Billy O'Leary,20.0,17h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.20-OLeary.pdf,20-Mar-2012,Mar,N,M
-279,2012.03.15,2012,Unprovoked,usa,Florida,"Jensen Beach, Martin County ",Surfing,Frank Wacha,61.0,15h50,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.15-Wacha.pdf,15-Mar-2012,Mar,N,M
-280,2012.03.14.b,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Sydney Levy,15.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.14.b-Levy.pdf,14-Mar-2012,Mar,N,F
-281,2012.03.14.a,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Nick Romano,17.0,16h05,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.14.a-Romano.pdf,14-Mar-2012,Mar,N,M
-282,2012.03.06.a,2012,Provoked,australia,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",female,34.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.06.a-MelbourneAquarium.pdf,06-Mar-2012,Mar,N,F
-283,2012.03.04,2012,Unprovoked,usa,Florida,"Playalinda Beach, Brevard County",Kite Surfing,Justin Worral,19.0,13h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.03.04-Worrall.pdf,04-Mar-2012,Mar,N,M
-284,2012.01.19,2012,Unprovoked,australia,Western Australia,Coral Bay,Snorkeling,David Pickering,26.0,Afternoon,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.01.19-Pickering.pdf,19-Jan-2012,Jan,N,M
-285,2012.01.18.a,2012,Unprovoked,australia,New South Wales,Redhead Beach,Surfing,Glen Folkard,44.0,16h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.01.18.a-Folkard.pdf,18-Jan-2012,Jan,N,M
-286,2012.01.15,2012,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,Lungisani Msungubana,25.0,15h40,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.01.15-Msungubana.pdf,15-Jan-2012,Jan,Y,M
-287,2012.01.03,2012,Unprovoked,australia,New South Wales,North Avoca Beach,Surfing,Mike Wells,28.0,20h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.01.03-Wells.pdf,03-Jan-2012,Jan,N,M
-288,2012.01.02,2012,Unprovoked,australia,Queensland,Duranbah,Spearfishing,Hugo Silva,34.0,09h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2012.01.02-Hugo-Ricardo-Mendes-da-Silva.pdf,02-Jan-2012,Jan,N,M
-289,2011.12.11,2011,Unprovoked,australia,New South Wales,Angourie,Surfing,Steve King,51.0,05h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.12.11-King.pdf,11-Dec-2011,Dec,N,M
-290,2011.11.28,2011,Unprovoked,australia,Queensland,Peregian,Swimming,Eamon Kriz,10.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.11.28-Kriz-not-on-spreadsheet.pdf,28-Nov-2011,Nov,N,M
-291,2011.10.22,2011,Unprovoked,australia,Western Australia,Rottnest Island,Diving,George Wainwright,32.0,13h25,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.10.22-Wainwright.pdf,22-Oct-2011,Oct,Y,M
-292,2011.10.19,2011,Unprovoked,australia,Victoria,Elwood Beach,Diving,Andrew Houston ,50.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.10.19-Houston.pdf,19-Oct-2011,Oct,N,M
-293,2011.09.30,2011,Invalid,usa,Puerto Rico,Hatillo Beach,Surfing,Rafael Colón Casanova,27.0,09h50,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.30-Casanova.pdf,30-Sep-2011,Sep,Unknown,M
-294,2011.09.28.a,2011,Unprovoked,south africa,Western Cape Province,Clovely Beach,Swimming,Michael Cohen,43.0,12h25,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.28.a-Cohen.pdf,28-Sep-2011,Sep,N,M
-295,2011.09.24.b,2011,Unprovoked,usa,Florida,"Santa Maria Island, Manatee County",Spearfishing,C.J. Wickersham,21.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.24.b-Wickersham.pdf,24-Sep-2011,Sep,N,M
-296,2011.09.16,2011,Unprovoked,usa,Florida,New Smyrna Beach,Surfing,Daniel Jorgensen,25.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.16-Jorgensen.pdf,16-Sep-2011,Sep,N,M
-297,2011.09.11.a,2011,Unprovoked,papua new guinea,Central Province,"Hula, near Port Moresby",Kite Surfing,Thomas Viot,30.0,Afternoon,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.11.a-Viot.pdf,11-Sep-2011,Sep,N,M
-298,2011.09.04.a,2011,Unprovoked,australia,Western Australia, Bunker Bay,Body boarding,Kyle James Burden,21.0,13h26,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.04.a-Burden.pdf,04-Sep-2011,Sep,Y,M
-299,2011.09.02,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Daniel True,19.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.09.02-True.pdf,02-Sep-2011,Sep,N,M
-300,2011.08.31,2011,Unprovoked,usa,Florida,Crescent Beach St. Johns County,Surfing,Shane Lancaster,19.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.31-Lancaster.pdf,31-Aug-2011,Aug,N,M
-301,2011.08.28.b,2011,Invalid,australia,Queensland,Fantome Island,Swimming,Rooster,48.0,19h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.28-Roosteer.pdf,28-Aug-2011,Aug,Unknown,M
-302,2011.08.23,2011,Unprovoked,south africa,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,Tim van Heerden,49.0,09h11,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.23-VanHeerden.pdf,23-Aug-2011,Aug,Y,M
-303,2011.08.17.c.,2011,Unprovoked,usa,North Carolina,"Kure Beach, New Hanover County",Wading,Trang Aronian,20.0,17h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.17.c-Aronian.pdf,17-Aug-2011,Aug,N,F
-304,2011.08.17.a,2011,Unprovoked,russia,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Vityaz,Swimming,Denis Udovenko,25.0,Evening,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.17.a-Udovenko.pdf,17-Aug-2011,Aug,N,M
-305,2011.08.16.c,2011,Unprovoked,french polynesia,Society Islands,"Teahupoo, Tahiti",Surfing,Adam 'Biff' D'Esposito,32.0,15h30,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.16.c-D'Esposito.pdf,16-Aug-2011,Aug,N,M
-306,2011.08.16.a,2011,Unprovoked,seychelles,Praslin,Anse Lazio ,Swimming or Snorkeling,Ian Martin Redmond,30.0,16h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.08.16.a-Redmond.pdf,16-Aug-2011,Aug,Y,M
-307,2011.07.22,2011,Unprovoked,south africa,Eastern Cape Province,"Cintza Beach, East London",Surfing,Denver Struwig,29.0,10h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.07.22-Struwig.pdf,22-Jul-2011,Jul,N,M
-308,2011.06.28,2011,Unprovoked,south africa,KwaZulu-Natal,Aliwal Shoal,Scuba diving,Paolo Stanchi,22.0,12h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.06.28-Stanchi.pdf,28-Jun-2011,Jun,N,M
-309,2011.06.26,2011,Unprovoked,usa,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,Cassidy Cartwright ,10.0,Afternoon,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.06.26-Cartwright.pdf,26-Jun-2008,Jun,N,F
-310,2011.06.12,2011,Unprovoked,usa,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,Daniel Webb,28.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.06.12-Webb.pdf,12-Jun-2011,Jun,N,M
-311,2011.06.06.a,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Wading,Alan McIntosh,19.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.06.06.a-McIntosh.pdf,06-Jun-2011,Jun,N,M
-312,2011.05.21.b,2011,Unprovoked,south africa,KwaZulu-Natal,Levan Point,Spearfishing,Warren Smart,28.0,Midday,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.05.21.b-Smart.pdf,21-May-2011,May,Y,M
-313,2011.05.21.a,2011,Unprovoked,new caledonia,North Province,Kendec,Kite Boarding,Nathan ____,15.0,11h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.05.21.a-Nathan.pdf,21-May-2011,May,Y,M
-314,2011.04.23,2011,Unprovoked,australia,Western Australia,Red Bluffs,Washing sand off a speared fish,Marcus van der Vyver,17.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.04.23-VanderVyver.pdf,23-Apr-2011,Apr,N,M
-315,2011.04.22,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing ,Ronald White,49.0,15h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.04.22-RonWhite.pdf,22-Apr-2011,Apr,N,M
-316,2011.04.16,2011,Unprovoked,new zealand,South Island,Snapper Point,Surfing,Laine Hobson,41.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.04.16-Hobson.pdf,16-Apr-2011,Apr,N,M
-317,2011.03.23,2011,Unprovoked,australia,New South Wales,Crowdy Head,Surfing,David Pearson,48.0,17h45,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.03.23-Pearson.pdf,23-Mar-2011,Mar,N,M
-318,2011.03.16,2011,Unprovoked,australia,New South Wales,"Jimmys Beach, Port Stephens",Wakeboarding,Lisa Mondy,24.0,13h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.03.16-Mondy.pdf,16-Mar-2011,Mar,N,F
-319,2011.02.28.R,2011,Provoked,australia,Queensland,Between ,Fishing,Shane Nyari,36.0,10h45,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.02.28.R-Nyari.pdf,Reported 28-Feb-2011,Feb,N,M
-320,2011.02.23,2011,Unprovoked,new caledonia, Loyalty Islands,"Bay of Bweedro, Ouvéa",Spearfishing,Jean-Luc Majele,21.0,Early afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.02.23-Jean-Luc.pdf,23-Feb-2011,Feb,N,M
-321,2011.02.17,2011,Unprovoked,australia,South Australia,Off Perforated Island near Coffin Bay,Diving for abalone,Peter Clarkson,49.0,18h20,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.02.17-Clarkson.pdf,17-Feb-2011,Feb,Y,M
-322,2011.01.31,2011,Unprovoked,mexico,Quintana Roo,Cancun,Swimming,Nicole Moore,38.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.01.31-Moore.pdf,31-Jan-2011,Jan,N,F
-323,2011.01.26,2011,Unprovoked,bahamas,West End,Tiger Beach,Scuba diving,Jim Abernethy,55.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.01.26-Abernethy.pdf,26-Jan-2011,Jan,N,M
-324,2011.01.20,2011,Invalid,australia,New South Wales,Cudgen Creek ,Swimming,Mia Merlini,7.0,17h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2011.01.20-Merlini.pdf,20-Jan-2011,Jan,Unknown,F
-325,2010.12.26,2010,Unprovoked,usa,Hawaii," Kahului, Maui",Body boarding,Vaun Stover-French ,16.0,15h35,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.12.26-Stover-French.pdf,26-Dec-2010,Dec,N,M
-326,2010.12.05,2010,Unprovoked,egypt,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh",Snorkeling,Renate Seiffert,25.0,12h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.12.05-Renate- Seiffert.pdf,05-Dec-2010,Dec,Y,F
-327,2010.12.01.b,2010,Unprovoked,egypt,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,Yevgeniy (Eugene) Trishkin ,54.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.12.01.b-Yevgeniy-Trishkin.pdf,01-Dec-2010,Dec,N,M
-328,2010.12.01.a,2010,Unprovoked,egypt,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,Viktor Koliy ,46.0,10h55,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.12.01.a-Viktor-Koliy.pdf,01-Dec-2010,Dec,N,M
-329,2010.11.30.b,2010,Unprovoked,egypt,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,Lyudmila Stolyarova ,25.0,14h55,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.11.30.b-Lyudmila-Stolyarova.pdf,30-Nov-2010,Nov,N,F
-330,2010.11.30.a,2010,Unprovoked,egypt,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,Olga Martsinko ,48.0,14h40,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.11.30.a-Olga Marsyenko.pdf,30-Nov-2010,Nov,N,F
-331,2010.10.30,2010,Unprovoked,australia,Western Australia,Off Garden Island,Snorkeling,Elyse Frankcom,20.0,12h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.10.30-Francom.pdf,30-Oct-2010,Oct,N,F
-332,2010.10.23.b,2010,Unprovoked,usa,Maine,"Burnt Cove near Eastport, Washington County",Scuba diving,Scott MacNichol,30.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.10.23-MacNichol.pdf,23-Oct-2010,Oct,N,M
-333,2010.10.22,2010,Unprovoked,usa,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,Lucas Ransom,19.0,08h50,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.10.22-Ransom.pdf,22-Oct-2010,Oct,Y,M
-334,2010.10.09,2010,Unprovoked,australia,New South Wales,Mullaway Headland,Surfing,Ken Turk,22.0,13h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.10.09-Turk.pdf,09-Oct-2010,Oct,N,M
-335,2010.09.27,2010,Unprovoked,usa,Oregon,Winchester Bay,Surfing,David Lowden,29.0,16h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.09.27-Lowden-COLLIER.pdf,27-Sep-2010,Sep,N,M
-336,2010.09.13,2010,Unprovoked,australia,New South Wales,Fraser's Reef,Surfing,Jake Davis,15.0,17h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.09.13-Davis.pdf, 13-Sep-2010,Sep,N,M
-337,2010.08.17,2010,Unprovoked,australia,Western Australia,Cowaramup Bay,Surfing,Nicholas Edwards,31.0,08h05,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.08.17-Edwards.pdf,17-Aug-2010,Aug,Y,M
-338,2010.08.02.a,2010,Unprovoked,usa,Florida,"Micklers Landing, St. Johns County",Standing,Kimberly Presser,37.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.08.02.a-Presser.pdf,02-Aug-2010,Aug,N,F
-339,2010.07.19,2010,Unprovoked,usa,South Carolina,Myrtle Beach,Swimming,Josh Myers,10.0,10h35,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.19-Myers.pdf,19-Jul-2010,Jul,N,M
-340,2010.07.17.b,2010,Unprovoked,usa,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,Kendall Parker,13.0,13h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.17.b-Parker.pdf,17-Jul-2010,Jul,N,F
-341,2010.07.16.b,2010,Provoked,spain,Grand Canary Island,"Sardina del Norte, Gáldar",Swimming,male,9.0,19h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.16.b-Spain.pdf,16-Jul-2010,Jul,N,M
-342,2010.07.03,2010,Provoked,usa,New York,Off Long Island,Fishing,Frank Joseph,20.0,12h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.03-Joseph.pdf,03-Jul-2010,Jul,N,M
-343,2010.07.02.b,2010,Unprovoked,usa,California,"Pismo Beach, San Luis  Obispo County",Surfing,Derek Crane,19.0,Evening,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.02.b-Crane.pdf,02-Jul-2010,Jul,N,M
-344,2010.07.02.a,2010,Unprovoked,usa,California,"Dog Patch, San Onofre",Stand-Up Paddleboarding,David Bull,48.0,15h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.07.02.a-Bull.pdf,02-Jul-2010,Jul,N,M
-345,2010.06.15,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Swimming,Huynh Nhu Hoang,17.0,17h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.06.15-Hoang.pdf,15-Jun-2010,Jun,N,M
-346,2010.06.10,2010,Unprovoked,usa,Florida,Jacksonville,Boogie Boarding,Hannah Mayo-Foster,18.0,12h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.06.10-Mayo-Foster.pdf,10-Jun-2010,Jun,N,F
-347,2010.05.30,2010,Provoked,usa,Florida,Off Tarpon Springs,Fishing,Mike Seymore,49.0,08h45,lemon shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.05.30-Seymore.pdf,30-May-2010,May,N,M
-348,2010.05.18.c,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Rescuing,Nguyen Thi Thu Thao,58.0,18h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.05.18.c-Thao.pdf,18-May-2010,May,N,F
-349,2010.05.18.b,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Swimming,Nguyen Thi Tanh ,60.0,18h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.05.18.b-Thanh.pdf,18-May-2010,May,N,F
-350,2010.05.01,2010,Unprovoked,usa,Florida,New Smyrna Beach,Wading,Caitlin Dubois,10.0,10h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.05.01-Dubois.pdf,01-May-2010,May,N,F
-351,2010.04.28,2010,Provoked,usa,Florida,Hanalei Bay,Measuring sharks,Kirk Gastrich,29.0,Afternoon,lemon shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.04.28-Gatrich.pdf,28-Apr-2010,Apr,N,M
-352,2010.04.19,2010,Unprovoked,usa,Hawaii,"Hanalei Bay, Kauai",Surfing,Jim Rawlinson,25.0,16h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.04.19-Rawlinson.pdf,19-Apr-2010,Apr,N,M
-353,2010.04.13,2010,Unprovoked,south africa,Eastern Cape Province,"East Beach, Port Alfred",Surfing,Brendan Denton,35.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.04.13-Denton.pdf,13-Apr-2010,Apr,N,M
-354,2010.04.04,2010,Unprovoked,egypt,Sinai Peninsula,Sharm el-Sheikh ,Swimming / treading water,James Elliott,24.0,14h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.04.04-Elliot.pdf,04-Apr-2010,Apr,N,M
-355,2010.03.27,2010,Unprovoked,reunion,Saint-Benoit,Bittern,Surfing,Oliver Schorebreak,34.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.03.27-Schorebreak.pdf, 27-Mar-2010,Mar,N,M
-356,2010.02.13,2010,Unprovoked,australia,Queensland,"Dent Island, Whitsundays",Snorkeling,Patricia Trumbull,60.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.02.13-Trumbull.pdf,13-Feb-2010,Feb,N,F
-357,2010.02.11,2010,Unprovoked,australia,New South Wales,"Mona Vale Beach, Sydney",Surfing,Paul Welsh,46.0,08h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.02.11-Welsh.pdf,11-Feb-2010,Feb,N,M
-358,2010.02.06.b,2010,Unprovoked,australia,New South Wales,Turners' Beach,Body boarding,Dean Everson,18.0,15h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.02.06.b-Everson.pdf,06-Feb-2010,Feb,N,M
-359,2010.02.04,2010,Invalid,guam,Merizo,Achang Reef,Spearfishing (free diving),Andrew Duenas,31.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.02.04-Duenas.pdf,04-Feb-2010,Feb,Unknown,M
-360,2010.02.01,2010,Provoked,new zealand,South Island,Oreti Beach,Boogie Boarding,Lydia Ward,14.0,18h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.02.01-Ward.pdf,01-Feb-2010,Feb,N,F
-361,2010.01.12,2010,Unprovoked,south africa,Western Province,Fish Hoek,Standing,Lloyd Skinner,37.0,15h15,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2010.01.12-Skinner.pdf,12-Jan-2010,Jan,Y,M
-362,2009.12.22,2009,Unprovoked,mozambique,Maputo Province,Ponta do Ouro,Swimming,Peter Fraser,27.0,16h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.12.22-Fraser.pdf,22-Dec-2009,Dec,N,M
-363,2009.12.20.a,2009,Unprovoked,australia,Queensland,Lamont Reef,Spearfishing,John Pengelly,18.0,07h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.12.20.a-Pengelly.pdf,20-Dec-2009,Dec,N,M
-364,2009.12.06,2009,Provoked,usa,New Jersey,"Adventure Aquarium, Camden",Diving,Robert Large,58.0,13h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.12.06-Large.pdf,05-Dec-2009,Dec,N,M
-365,2009.11.25,2009,Invalid,usa,California,"Huntington Beach, Orange County",Surfing,Kenneth Hall,49.0,15h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.11.25-Hall.pdf,25-Nov-2009,Nov,Unknown,M
-366,2009.11.24,2009,Unprovoked,usa,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Wading,Garrett Gollihugh,10.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.11.24-Gollighugh.pdf,24-Nov-2009,Nov,N,M
-367,2009.11.16.b,2009,Unprovoked,usa,California,"Loch Lomond, Marin County",Fishing,James White,31.0,16h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.11.16.b-White.pdf,16-Nov-2009,Nov,N,M
-368,2009.11.11,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,male,18.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.11.11-NewSmyrnaBeach.pdf,11-Nov-2009,Nov,N,M
-369,2009.11.08,2009,Unprovoked,australia,South Australia,Second Valley,Kayaking,Dean Brougham,25.0,10h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.11.08-Brougham.pdf,08-Nov-2009,Nov,N,M
-370,2009.10.30,2009,Boating,australia,Victoria,Portland,Kayaking,Rhys Gadsden,27.0,Morning,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.10.30-Gadsden.pdf,30-Oct-2009,Oct,N,M
-371,2009.10.19,2009,Unprovoked,usa,Hawaii,"Kalama Park, Maui",Surfing,Scott Henrich,54.0,06h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.10.19-Henrich.pdf,19-Oct-2009,Oct,N,M
-372,2009.10.17,2009,Provoked,scotland,Fife,Deep Sea World Aquarium,Diving,male,23.0,14h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.10.17-DeepSeaWorld.pdf,17-Oct-2009,Oct,N,M
-373,2009.10.02,2009,Provoked,united kingdom,Devon,Mewstone Rock,Fishing,male,39.0,12h50,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.10.02-UK.pdf,02-Oct-2009,Oct,N,M
-374,2009.09.12,2009,Invalid,usa,North Carolina,"Corolla, Currituck County",Swimming,Richard A Snead,60.0,21h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.09.12-Snead.pdf,12-Sep-2009,Sep,Y,M
-375,2009.08.29,2009,Unprovoked,south africa,Western Cape Province,Glentana,Surfing,Gerhard van Zyl,25.0,15h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.08.29-VanZyl.pdf,29-Aug-2009,Aug,Y,M
-376,2009.08.25,2009,Unprovoked,usa,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,Bethany Edmund,22.0,16h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.08.25-Edmund.pdf,25-Aug-2009,Aug,N,F
-377,2009.08.01,2009,Unprovoked,usa,Louisiana,"Curlew Island, Breton Sound",Wade Fishing,"Chris Haynes, Jr.",56.0,10h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.08.01-Haynes.pdf,01-Aug-2009,Aug,N,M
-378,2009.07.04,2009,Provoked,usa,Florida,"Biscayne National Park, Miami",Swimming,Carmen Dominguez ,43.0,15j45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.07.04-Miami.pdf,04-Jul-2009,Jul,N,F
-379,2009.06.27,2009,Unprovoked,australia,New South Wales,"Seven Mile Beach, Gerroa",Surfing,Les Wade,52.0,08h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.06.27-Wade.pdf,27-Jun-2009,Jun,N,M
-380,2009.06.16,2009,Invalid,usa,Florida,"Melbourne Beach, Brevard County",Crawling,Kevin Crowley,14.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.06.16-Crowley.pdf,16-Jun-2009,Jun,Unknown,M
-381,2009.06.01,2009,Unprovoked,egypt,St. Johns Reef,Habili Gafar,Snorkeling,Katrina Tipio,50.0,Morning,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.06.01-Tipio.pdf,01-Jun-2009,Jun,Y,F
-382,2009.05.31,2009,Provoked,taiwan,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13  ,Fishing,Zhang Sanqian,46.0,20h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.05.31-Sangian.pdf,31-May-2009,May,N,M
-383,2009.05.17,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Provido,31.0,09h35,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.05.17-Provido.pdf,17-May-2009,May,N,M
-384,2009.05.16.b,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Bryan Heath,49.0,10h27,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.05.16.b-Heath.pdf,16-May-2009,May,N,M
-385,2009.05.16.a,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,David Bryant,55.0,10h16,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.05.16.a-Bryant.pdf,16-May-2009,May,N,M
-386,2009.05.12,2009,Provoked,guam,North Region,Ritidian Point,Spearfishing,Jonathan Leon Guerrero,27.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.05.12-Guerrero.pdf,12-May-2009,May,N,M
-387,2009.04.17.,2009,Unprovoked,usa,Florida,"Walton Rocks, St Lucie County",Surfing,Alexander Wagner,31.0,13h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.04.17-Wagner.pdf,17-Apr-2009,Apr,N,M
-388,2009.04.12,2009,Unprovoked,australia,New South Wales,Fingal Bay,Surf skiing ,Heath Milne,40.0,08h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.04.12-Milne.pdf,12-Apr-2009,Apr,N,M
-389,2009.04.06.b,2009,Invalid,south africa,KwaZulu-Natal,Umtentweni,Swimming,Odwa Hlanganisela,24.0,Morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.04.06.b-Hlanganisela.pdf,06-Apr-2009,Apr,Unknown,M
-390,2009.03.20,2009,Unprovoked,australia,New South Wales,Blue Bay,Surfing,Calvin Galbraith,17.0,18h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.03.20-BatemansBay.pdf,20-Mar-2009,Mar,N,M
-391,2009.03.18.a,2009,Unprovoked,usa,Florida,"Ponce Inlet, Volusia County",Surfing,female,17.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.03.18.a-PonceInlet.pdf,18-Mar-2009,Mar,N,F
-392,2009.03.17,2009,Unprovoked,usa,Hawaii,Alenuihaha Channel,Swimming,Mike Spaulding,61.0,20h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.03.17.a-Spaulding.pdf,17-Mar-2009,Mar,N,M
-393,2009.03.02,2009,Provoked,south africa,Western Cape Province,Off Cape Point,Fishing,Gabriel Fernandez,40.0,13h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.03.02-Fernandez.pdf,02-Mar-2009,Mar,N,M
-394,2009.03.01.a,2009,Unprovoked,australia,New South Wales,Avalon,Surfing,Andrew Lindop,15.0,06h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.03.01-Lindop.pdf,01-Mar-2009,Mar,N,M
-395,2009.02.12,2009,Unprovoked,australia,New South Wales,"Bondi Beach, Sydney",Surfing,Glen Orgias,33.0,19h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.02.12-Orgias.pdf,12-Feb-2009,Feb,N,M
-396,2009.02.11,2009,Unprovoked,australia,New South Wales,"Garden Point, Woolloomooloo Sydney Harbour","Diving, but on the surface when bitten by the shark",Paul Degelder,31.0,Before 07h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.02.11-Degelder.pdf,11-Feb-2009,Feb,N,M
-397,2009.02.07.b,2009,Unprovoked,australia,New South Wales,Cellito Beach,Surfing,Durwin Keg,41.0,11h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.02.07.b-Keg.pdf,07-Feb-2009,Feb,N,M
-398,2009.01.25,2009,Unprovoked,cuba,Guantanamo Province,Guantanamo Bay,Spearfishing,John Emory,15.0,10h30,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.25-Emory.pdf,25-Jan-2009,Jan,N,M
-399,2009.01.24.a,2009,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St. John's",Swimming,Sikhanyiso Bangilizwe,25.0,14h00,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.24.a-Bangalizwe.pdf,24-Jan-2009,Jan,Y,M
-400,2009.01.12,2009,Unprovoked,australia,New South Wales,"Windang,       Lake Illawara",Snorkeling,Steven Fogarty,24.0,10h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.12-Fogarty.pdf,12-Jan-2009,Jan,N,M
-401,2009.01.11.b,2009,Unprovoked,australia,Tasmania,Binalong Bay,Surfing,Hannah Mighall,13.0,15h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.11.b-Mighall.pdf,11-Jan-2009,Jan,N,F
-402,2009.01.11.a,2009,Unprovoked,australia,New South Wales,Fingal Beach,Surfing,Jonathan Beard,31.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.11.a-Beard.pdf,11-Jan-2009,Jan,N,M
-403,2009.01.06,2009,Unprovoked,new zealand,North Island,Haumoana ,Swimming,Greg Sims,49.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2009.01.06-Sims.pdf,06-Jan-2009,Jan,N,M
-404,2008.12.27.b,2008,Boating,australia,New South Wales,"Long Reef, north of Sydney",Kayaking,Steve Kulcsar,29.0,11h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.12.27.b-Kulcsar.pdf,27-Dec-2008,Dec,N,M
-405,2008.12.27.a,2008,Unprovoked,australia,Western Australia,Port Kennedy Beach,Snorkeling,Brian Guest,51.0,07h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.12.27.a-Guest.pdf,27-Dec-2008,Dec,Y,M
-406,2008.12.10,2008,Provoked,south africa,Western Cape Province,Plettenberg Bay,Fishing,Luke Parker,15.0,20h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.12.10-Parker.pdf,10-Dec-2008,Dec,N,M
-407,2008.10.22,2008,Provoked,australia,New South Wales,"Oceanworld, Manley",Scuba diving,Steve Cloke,34.0,17h20,grey shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.10.22-Clote.pdf,22-Oct-2008,Oct,N,M
-408,2008.10.06,2008,Unprovoked,croatia," Split-Dalmatia Count,","Smokvina Bay, Vis Island",Spearfishing,Damjan Pecek ,43.0,12h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.10.06-Pecek.pdf,06-Oct-2008,Oct,N,M
-409,2008.09.28.a,2008,Unprovoked,usa,Florida,Bethune Beach,Surfing,David Carr,40.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.09.28.a-Carr.pdf,28-Sep-2008,Sep,N,M
-410,2008.09.15,2008,Provoked,australia,Northern Territory,Near Croker Island,Swimming,Quentin Gorrell,43.0,14h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.09.15-Gorrell.pdf,15-Sep-2008,Sep,N,M
-411,2008.09.09,2008,Unprovoked,usa,Hawaii,"Ka'a'awa, Oahu",Surfing,Todd Murashige,40.0,16h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.09.09-Murashige.pdf,09-Sep-2008,Sep,N,M
-412,2008.09.07,2008,Unprovoked,australia,New South Wales,"Clarks Beach, Byron Bay",Surfing,John Morgan,51.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.09.07-Morgan.pdf,07-Sep-2008,Sep,N,M
-413,2008.09.01,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Joe McGauley,52.0,10h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.09.01-McGauley.pdf,01-Sep-2008,Sep,N,M
-414,2008.08.30.b,2008,Invalid,usa,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i ",Swimming,Kameron Brown,27.0,19h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.08.30.b-Brown.pdf,30-Aug-2008,Aug,Unknown,M
-415,2008.08.27,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Alexander Zgura,26.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.08.27-Zgura.pdf,27-Aug-2008,Aug,N,M
-416,2008.08.22,2008,Invalid,usa,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,Jessica Brothers,20.0,18h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.08.22-Brothers.pdf,24-Aug-2008,Aug,Unknown,F
-417,2008.08.16,2008,Unprovoked,usa,US Virgin Islands,Buck Island,Treading water,Elizabeth Riggs,38.0,Dusk,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.08.16-Riggs.pdf,16-Aug-2008,Aug,N,F
-418,2008.07.30.R,2008,Unprovoked,australia,Victoria,Levys Beach,Surfing,Aaron Seare,31.0,10h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.07.30-Seare.pdf,30-Jul-2008,Jul,N,M
-419,2008.07.24.a,2008,Unprovoked,usa,North Carolina,"Topsail Island, Pender County",Wading,Madeline Sinsley ,8.0,13h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.07.24.a-Sinsley.pdf,24-Jul-2008,Jul,N,F
-420,2008.07.19,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Wading,S.A.,16.0,13h55,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.07.19-NewSmyrnaBach.pdf,19-Jul-2008,Jul,N,M
-421,2008.06.28.c,2008,Invalid,usa,Hawaii,"Kamilo Point, Hawai'i",Wading,Nathan Labarios,53.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.28.c-Labarios.pdf,28-Jun-2008,Jun,Unknown,M
-422,2008.06.28.a,2008,Unprovoked,south africa,Western Cape Province,Mossel Bay,Surf skiing ,Kobus Maritz,46.0,14h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.28.a-Maritz.pdf,28-Jun-2008,Jun,N,M
-423,2008.06.26.a,2008,Unprovoked,usa,South Carolina,"Isle of Palms, Charleston County",Swimming,Preston Pearman,37.0,11h15,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.26.a-Pearman.pdf,26-Jun-2008,Jun,N,M
-424,2008.06.21,2008,Boating,usa,California,"West Cove, Catalina Island",Kayaking,Bettina Pereira,40.0,09h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.21-Pereira.pdf,21-Jun-2008,Jun,N,F
-425,2008.06.01.b,2008,Unprovoked,usa,South Carolina,Cherry Grove,Body surfing,Madi Taff,15.0,18h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.01.b-Taff.pdf,01-Jun-2008,Jun,N,F
-426,2008.06.01.a,2008,Unprovoked,brazil,Pernambuco,"Piedade, Recife",Swimming,Wellington dos Santos ,14.0,15h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.06.01-Santos.pdf,01-Jun-2008,Jun,N,M
-427,2008.05.24.a,2008,Unprovoked,mexico,Guerro,Playa Linda,Surfing,Bruce Grimes,49.0,Early morning,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.05.24.a-Grimes.pdf,24-May-2008,May,N,M
-428,2008.05.10,2008,Unprovoked,australia,Western Australia,Albany,Swimming,Jason Cull,37.0,07h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.05.10-JasonCull.pdf,10-May-2008,May,N,M
-429,2008.05.07.b,2008,Unprovoked,new caledonia,North Province,Hienghène,Fishing,male,40.0,14h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.05.07.b-NewCaledonia.pdf,07-May-2008,May,N,M
-430,2008.04.28.b,2008,Unprovoked,mexico,Guerro,Troncones Beach,Surfing,Adrian Ruiz,24.0,Afternoon,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.28.b-Ruiz.pdf,28-Apr-2008,Apr,Y,M
-431,2008.04.28.a,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,David Alger,18.0,11h45,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.28.a-Alger.pdf,28-Apr-2008,Apr,N,M
-432,2008.04.26.b,2008,Unprovoked,new caledonia,North Province,Poindimié,Swimming,Olivier Vilain ,32.0,Morning,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.26.b-Vilain.pdf,26-Apr-2008,Apr,N,M
-433,2008.04.25,2008,Unprovoked,usa,California,"Solana Beach, San Diego County",Swimming,Dave Martin,25.0,07h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.25-DaveMartin.pdf,25-Apr-2008,Apr,Y,M
-434,2008.04.18,2008,Invalid,mexico,Quintana Roo,"Delfines Beach, Cancun",Swimming,Joram Galleros Villanueva,32.0,Evening,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.18-Villanueva.pdf,18-Apr-2008,Apr,Unknown,M
-435,2008.04.17,2008,Invalid,australia,Queensland,"Duranbah, Greenmount Beach",Surfing,David Weale,19.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.17-Weale.pdf,17-Apr-2008,Apr,Unknown,M
-436,2008.04.15,2008,Unprovoked,usa,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,Bobby Phillips,30.0,15h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.15-Phillips.pdf,15-Apr-2008,Apr,N,M
-437,2008.04.08,2008,Unprovoked,australia,New South Wales,"Lighthouse Beach, Ballina",Body boarding,Peter Edmonds,16.0,08h05,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.04.08.a-Edmonds.pdf,08-Apr-2008,Apr,Y,M
-438,2008.03.28.b,2008,Unprovoked,usa,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,Mark Lemelin,52.0,18h50,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.03.28.b-Lemelin.pdf,28-Mar-2008,Mar,N,M
-439,2008.03.23,2008,Unprovoked,usa,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,male,13.0,11h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.03.23-NewSmyrnaBeach.pdf,23-Mar-2008,Mar,N,M
-440,2008.03.15,2008,Unprovoked,usa,Florida,"Lovers Key State Park, Bonita Springs, Lee County",Jet skiing,male,8.0,Afternoon,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.03.15-BonitaSprings.pdf,15-Mar-2008,Mar,N,M
-441,2008.03.07,2008,Unprovoked,usa,California," Huntington Beach, Orange County",Surfing,Thomas Larkin,27.0,08h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.03.07-Larkin.pdf,07-Mar-2008,Mar,N,M
-442,2008.02.24,2008,Unprovoked,bahamas,Northern Bahamas,"Dive site known as ""The End of the Map""",Diving,Markus Groh,49.0,10h00,bull shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.02.24-Groh.pdf,24-Feb-2008,Feb,Y,M
-443,2008.01.27,2008,Provoked,australia,Queensland,200 km east of Coolangatta  ,Accidentally stood on hooked shark's tail before attempting to gut it ,Jarryd Tinson ,20.0,07h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2008.01.27-Tinson.pdf,27-Jan-2008,Jan,N,M
-444,2007.12.18,2007,Unprovoked,australia,New South Wales,Jimmy's Beach,Surfing,Ben Morcom,31.0,11h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.12.18-Morcom.pdf,18-Dec-2007,Dec,N,M
-445,2007.12.14,2007,Invalid,australia,New South Wales,Bondi ,Swimming,Scott Wright,34.0,20h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.12.14-Wright.pdf,14-Dec-2007,Dec,Unknown,M
-446,2007.12.10,2007,Unprovoked,usa,Hawaii,"Waialua Bay, O'ahu",Surfing,Valentino Ramirez,52.0,"""Just before 11h00""",tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.12.10-Ramirez.pdf,10-Dec-2007,Dec,N,M
-447,2007.11.07,2007,Unprovoked,south africa,Western Cape Province,The Strand,Surfing,Andrew Smith,14.0,17h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.11.07-Smith.pdf,07-Nov-2007,Nov,N,M
-448,2007.11.06,2007,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Joseph Fox,21.0,11h115,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.11.06-Fox.pdf,06-Nov-2007,Nov,N,M
-449,2007.11.04,2007,Unprovoked,usa,Florida,"Round Island Park, Indian River County",Surfing,Jeffrey Nolan,42.0,09h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.11.04-Nolan.pdf,04-Nov-2007,Nov,N,M
-450,2007.11.03,2007,Unprovoked,south africa,Eastern Cape Province,Bonza Bay,Surfing,Lee Mellin,37.0,08h45,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.11.03-Mellin.pdf,03-Nov-2007,Nov,N,M
-451,2007.10.29,2007,Unprovoked,usa,Hawaii,"Wailea, Maui",Floating,Aaron Finley,32.0,15h30,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.10.29-Finley.pdf,29-Oct-2007,Oct,N,M
-452,2007.10.15,2007,Unprovoked,australia,New South Wales,Byron Bay,Surf-skiing,Linda Whitehurst,52.0,11h30,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.10.15-Whitehurst.pdf,15-Oct-2007,Oct,N,F
-453,2007.10.13,2007,Unprovoked,australia,Queensland,Holmes Reef,Spearfishing,Adam Wood,31.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.10.13-Wood.pdf,13-Oct-2007,Oct,N,M
-454,2007.10.07,2007,Unprovoked,usa,California,"Venice Pier, Venice, Los Angeles County",Surfing,Sam Bendall,22.0,20h30,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.10.07-Bendall.pdf,07-Oct-2007,Oct,N,M
-455,2007.10.06,2007,Unprovoked,usa,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,E.H.,16.0,08h10,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.10.06-EH.pdf,06-Oct-2007,Oct,N,M
-456,2007.09.30.a,2007,Unprovoked,new caledonia,Loyalty Islands,"Bay of Luengoni, Lifou Island",Swimming,Stéphanie Belliard ,23.0,Early morning,tiger shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.09.30.a-Belliard.pdf,30-Sep-2007,Sep,Y,F
-457,2007.09.28,2007,Unprovoked,bahamas,Grand Bahama Island,Sweetings Cay,Spearfishing,Leslie Gano,48.0,12h00,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.09.28-Gano.pdf,28-Sep-2007,Sep,N,F
-458,2007.09.27.a,2007,Unprovoked,egypt,Red Sea,Daedalus Reef ,Swimming,Kristina Aleksandrova,19.0,07h00,white shark,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.09.27.a-Aleksandrova.pdf,27-Sep-2007,Sep,N,F
-459,2007.09.20,2007,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,Tyler Robertson,23.0,18h20,unspecified,http://sharkattackfile.net/spreadsheets/pdf_directory/2007.09.20-Robertson.pdf,20-Sep-2007,Sep,N,M
+Barnstable County",Fishing,34.0,unspecified,03-Aug-2017,Aug,N,M
+33,2017.07.29.c,2017,Invalid,usa,South Carolina,"Hilton Head Island, Beaufort County",Swimming,10.0,unspecified,29-Jul-2017,Jul,Unknown,M
+34,2017.07.20.b,2017,Boating,usa,California,"Stearns Wharf, Santa Barbara",Kayaking,40.0,white shark,20-Jul-2017,Jul,N,M
+35,2017.07.20.a,2017,Unprovoked,usa,California,"Seal Rock, Goleta Beach, Santa Barbara",SUP,50.0,white shark,20-Jul-2017,Jul,N,M
+36,2017.07.09,2017,Unprovoked,usa,Florida,"Haulover Beach, Miami-Dade County",Swimming,46.0,bull shark,09-Jul-2017,Jul,N,M
+37,2017.07.07,2017,Unprovoked,south africa,Eastern Cape Province,"Nahoon Reef, East London",Surfing,13.0,white shark,07-Jul-2017,Jul,N,F
+38,2017.06.11,2017,Unprovoked,australia,Western Australia,"Point Casuarina, Bunbury",Body boarding,48.0,white shark,11-Jun-2017,Jun,N,M
+39,2017.06.02,2017,Unprovoked,bahamas,New Providence ,Athol Island,Snorkeling,32.0,tiger shark,02-Jun-2017,Jun,N,F
+40,2017.05.03,2017,Invalid,usa,California,"Sunset Beach, Orange County",Surfing,18.0,unspecified,03-May-2017,May,Unknown,F
+41,2017.04.17.a,2017,Unprovoked,australia,Western Australia,Kelpies near Wylie Bay,Surfing,17.0,white shark,17-Apr-2017,Apr,Y,F
+42,2017.04.14,2017,Unprovoked,usa,Hawaii,"Kekaha Beach, Kauai",Surfing,28.0,tiger shark,14-Apr-2017,Apr,N,M
+43,2017.04.02.a,2017,Unprovoked,usa,Florida,"Destin, Okaloosa County",Swimming,17.0,bull shark,02-Apr-2017,Apr,N,F
+44,2017.01.21,2017,Unprovoked,australia,Queensland,"Boot Reef, Torres Strait",Scuba Diving,55.0,bull shark,21-Jan-2017,Jan,N,M
+45,2017.01.09,2017,Unprovoked,indonesia,Bali,Balian Beach,Surfing,48.0,bull shark,09-Jan-2017,Jan,N,M
+46,2017.01.03,2017,Invalid,australia,New South Wales,Merimbula,Wading,20.0,unspecified,03-Jan-2017,Jan,Unknown,M
+47,2016.12.19,2016,Unprovoked,south africa,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing ,55.0,white shark,19-Dec-2016,Dec,N,M
+48,2016.12.11.a,2016,Invalid,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,19.0,unspecified,11-Dec-2016,Dec,Unknown,M
+49,2016.12.06,2016,Provoked,australia,New South Wales,Merimbula,Surf fishing,20.0,unspecified,06-Dec-2016,Dec,N,M
+50,2016.12.01,2016,Unprovoked,australia,New South Wales,Booti Booti National Park,Surfing,65.0,white shark,01-Dec-2016,Dec,N,M
+51,2016.11.28,2016,Provoked,australia,Victoria,Queenscliff,Fishing,25.0,unspecified,28-Nov-2016,Nov,N,M
+52,2016.11.14,2016,Unprovoked,usa,Hawaii,"Kamaole Beach Park I, Maui",Floating,58.0,tiger shark,14-Nov-2016,Nov,N,F
+53,2016.10.21,2016,Unprovoked,usa,Hawaii,"Hooipa Beach Park, Maui",Surfing,36.0,unspecified,21-Oct-2016,Oct,N,M
+54,2016.09.26,2016,Unprovoked,australia,New South Wales,"Lighthouse Beach, Ballina",Surfing,17.0,white shark,26-Sep-2016,Sep,N,M
+55,2016.09.11,2016,Unprovoked,usa,Florida,"Ponte Vedra, St. Johns County",Wading,60.0,unspecified,11-Sep-2016,Sep,N,M
+56,2016.09.07,2016,Unprovoked,usa,Hawaii,"Makaha, Oahu",Swimming,51.0,tiger shark,07-Sep-2016,Sep,N,F
+57,2016.08.29.b,2016,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,25.0,bull shark,29-Aug-2016,Aug,N,M
+58,2016.08.06,2016,Unprovoked,usa,Hawaii,Maui,SUP Foil boarding,21.0,tiger shark,06-Aug-2016,Aug,N,M
+59,2016.07.29,2016,Unprovoked,spain,Alicante Province,Arenales del Sol,Swimming,40.0,unspecified,29-Jul-2016,Jul,N,M
+60,2016.07.20,2016,Provoked,australia,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,31.0,unspecified,20-Jul-2016,Jul,N,M
+61,2016.07.15.b,2016,Unprovoked,usa,California,"Surfside, Orange County",Kite surfing,61.0,white shark,15-Jul-2016,Jul,N,M
+62,2016.07.07.b,2016,Provoked,usa,Massachusetts,"Off Gloucester, Essec County",Fishing,59.0,unspecified,07-Jul-2016,Jul,N,M
+63,2016.07.04,2016,Provoked,australia,Queensland,Palm Cove ,Fishing,34.0,unspecified,04-Jul-2016,Jul,N,M
+64,2016.06.21.b,2016,Unprovoked,usa,South Carolina,"North Myrtle Beach, Horry County",Floating,42.0,unspecified,21-Jun-2016,Jun,N,M
+65,2016.06.14,2016,Unprovoked,usa,Texas,"Pirates Beach, Galveston",Floating in tube,6.0,unspecified,14-Jun-2016,Jun,N,F
+66,2016.06.11,2016,Unprovoked,usa,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,19.0,unspecified,11-Jun-2016,Jun,N,M
+67,2016.06.07,2016,Invalid,usa,South Carolina,"Folly Beach, Charleston County",Surfing,27.0,unspecified,07-Jun-2016,Jun,Unknown,M
+68,2016.06.05.a,2016,Unprovoked,australia,Western Australia,Mindarie,Diving,60.0,unspecified,05-Jun-2016,Jun,Y,F
+69,2016.06.04,2016,Unprovoked,egypt,Suez,Ain Sokhna,Swimming,23.0,unspecified,04-Jun-2016,Jun,N,M
+70,2016.05.31,2016,Unprovoked,australia,Western Australia,"Falcon Beach, Mandurah",Surfing,29.0,white shark,31-May-2016,May,Y,M
+71,2016.05.29.a,2016,Unprovoked,usa,Florida,"Neptune, Duval County",Swimming,13.0,unspecified,29-May-2016,May,N,M
+72,2016.05.21.b,2016,Unprovoked,usa,Florida,"St. Petersburg, Pinellas County",Swimming,22.0,bull shark,21-May-2016,May,N,F
+73,2016.05.18,2016,Unprovoked,usa,Florida,"Ponte Vedra, St. Johns County",Swimming,48.0,unspecified,18-May-2016,May,N,M
+74,2016.05.15,2016,Provoked,usa,Florida,"Boca Raton, Palm Beach County",Teasing a shark,23.0,unspecified,15-May-2016,May,N,F
+75,2016.05.02,2016,Provoked,new zealand,North Island,Cormandel,Fishing,39.0,unspecified,02-May-2016,May,N,M
+76,2016.04.25,2016,Unprovoked,indonesia,Bali,Balian,Surfing,24.0,bull shark,25-Apr-2016,Apr,N,M
+77,2016.04.19,2016,Unprovoked,australia,New South Wales,"First Sun Beach, Byron Bay",Swimming,12.0,unspecified,19-Apr-2016,Apr,N,M
+78,2016.04.18.b,2016,Provoked,french polynesia,Tuamotos,Makemo Atoll,Spearfishing,22.0,grey shark,18-Apr-2016,Apr,Unknown,M
+79,2016.04.18.a,2016,Provoked,french polynesia,Tuamotos,Makemo Atoll,Spearfishing,26.0,grey shark,18-Apr-2016,Apr,N,M
+80,2016.04.09,2016,Unprovoked,new caledonia,Grand Terre,Poe Beach,Walking,25.0,tiger shark,09-Apr-2016,Apr,Y,F
+81,2016.01.23,2016,Unprovoked,usa,Hawaii,"Wailea Beach, Maui",Paddle boarding,48.0,tiger shark,23-Jan-2016,Jan,N,M
+82,2016.01.05,2016,Unprovoked,australia,Queensland,Heron Island,Wading,11.0,unspecified,05-Jan-2016,Jan,N,M
+83,2016.01.02,2016,Unprovoked,australia,Queensland,Miall Island,Spearfishing,31.0,unspecified,02-Jan-2016,Jan,N,M
+84,2015.12.22,2015,Unprovoked,usa,Hawaii,La'aloa Beach Park,Paddle boarding,25.0,unspecified,22-Dec-2015,Dec,N,M
+85,2015.12.21.b,2015,Unprovoked,australia,New South Wales,Bondi Beach,Surfing,43.0,unspecified,21-Dec-2015,Dec,N,M
+86,2015.11.20,2015,Unprovoked,ecuador,Galapagos Islands,"Punta Vicente Roca, Isabella Island",Snorkeling,55.0,unspecified,20-Nov-2015,Nov,N,M
+87,2015.11.10,2015,Unprovoked,australia,New South Wales,East Ballina,Surfing,20.0,bull shark,10-Nov-2015,Nov,N,M
+88,2015.12.23,2015,Invalid,usa,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,9.0,unspecified,07-Nov-2015,Nov,Unknown,F
+89,2015.11.01.b,2015,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Wading,28.0,unspecified,01-Nov-2015,Nov,N,F
+90,2015.10.25,2015,Unprovoked,south africa,Western Cape Province,Stil Bay,Surfing,42.0,white shark,25-Oct-2015,Oct,N,M
+91,2015.10.21,2015,Unprovoked,usa,Florida,"Playalinda Beach, Brevard County",Surfing,21.0,unspecified,21-Oct-2015,Oct,N,M
+92,2015.10.19,2015,Unprovoked,usa,Florida,"Deerfield Beach, Broward County",Surfing,21.0,unspecified,19-Oct-2015,Oct,N,M
+93,2015.10.17.b,2015,Invalid,usa,Hawaii,"Waikiki, ",Surfing,32.0,unspecified,17-Oct-2015,Oct,Unknown,M
+94,2015.10.17.a,2015,Unprovoked,usa,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,44.0,tiger shark,17-Oct-2015,Oct,N,M
+95,2015.10.09.a,2015,Unprovoked,usa,Hawaii,"Leftovers, Oahu",Surfing,25.0,tiger shark,09-Oct-2015,Oct,N,M
+96,2015.10.05.a,2015,Unprovoked,usa,Texas,Galveston,Wading,13.0,unspecified,05-Oct-2015,Oct,N,M
+97,2015.10.04,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,14.0,unspecified,04-Oct-2015,Oct,N,M
+98,2015.09.29,2015,Unprovoked,usa,Florida,"Vilano Beach, St.  Johns County",Surfing,22.0,unspecified,29-Sep-2015,Sep,N,M
+99,2015.09.20.d,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,14.0,unspecified,20-Sep-2015,Sep,N,M
+100,2015.09.20.c,2015,Unprovoked,usa,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,27.0,tiger shark,20-Sep-2015,Sep,N,M
+101,2015.09.20.b,2015,Unprovoked,usa,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,12.0,unspecified,20-Sep-2015,Sep,N,M
+102,2015.09.08,2015,Unprovoked,australia,New South Wales,North Shelly Beach,Surfing,42.0,unspecified,08-Sep-2015,Sep,N,M
+103,2015.09.06,2015,Unprovoked,usa,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,50.0,white shark,06-Sep-2015,Sep,N,F
+104,2015.09.05,2015,Provoked,usa,California,"Deer Creek Beach, Ventura County",Kayak Fishing,29.0,unspecified,05-Sep-2015,Sep,N,M
+105,2015.09.04,2015,Unprovoked,australia,New South Wales,Hallidays Point,Surf-skiing,62.0,white shark,04-Sep-2015,Sep,N,M
+106,2015.09.01,2015,Unprovoked,thailand,Phuket,Karon Beach,Wading,37.0,unspecified,01-Sep-2015,Sep,N,F
+107,2015.08.29.b,2015,Unprovoked,usa,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,54.0,white shark,29-Aug-2015,Aug,N,F
+108,2015.08.29.a,2015,Unprovoked,usa,California,"Morro Bay, San Luis Obispo County",Surfing,21.0,white shark,29-Aug-2015,Aug,N,M
+109,2015.08.20,2015,Unprovoked,usa,South Carolina,"Murrells Inlet, Georgetown County",Surfing,15.0,unspecified,20-Aug-2015,Aug,N,M
+110,2015.08.19,2015,Unprovoked,usa,Florida,"Jacksonville Beach, Duval County",Walking,10.0,unspecified,19-Aug-2015,Aug,N,F
+111,2015.08.18.b,2015,Boating,usa,California,Santa Barbara County,Kayak Fishing,22.0,white shark,18-Aug-2015,Aug,N,M
+112,2015.08.18.a,2015,Invalid,spain,Alicante,"Poniente Beach, Benidorm",Swimming,10.0,unspecified,18-Aug-2015,Aug,Unknown,M
+113,2015.08.10,2015,Provoked,usa,California,Cortes Bank,Spearfishing,57.0,unspecified,10-Aug-2015,Aug,N,M
+114,2015.07.31,2015,Unprovoked,australia,New South Wales,Evans Head,Surfing,52.0,white shark,31-Jul-2015,Jul,N,M
+115,2015.07.26.b,2015,Unprovoked,usa,Florida,"Daytona Beach, Volusia County",Surfing,25.0,unspecified,26-Jul-2015,Jul,N,M
+116,2015.07.26.a,2015,Invalid,usa,South Carolina,"Edisto Beach, Colleton County",Floating,35.0,unspecified,26-Jul-2015,Jul,Unknown,F
+117,2015.07.25,2015,Unprovoked,australia,Tasmania,"Lachan Island, Mercury Passage",Scallop diving on hookah,46.0,white shark,25-Jul-2015,Jul,Y,M
+118,2015.07-10,2015,Unprovoked,usa,California,"Huntington Beach, Orange County",Surfing,38.0,white shark,10-Jul-2015,Jul,N,M
+119,2015.07.03,2015,Unprovoked,australia,New South Wales,Lennox Head,Surfing,52.0,white shark,03-Jul-2015,Jul,N,M
+120,2015.07.02,2015,Unprovoked,australia,New South Wales,East Ballina,Body boarding ,32.0,white shark,02-Jul-2015,Jul,N,M
+121,2015.07.01,2015,Unprovoked,usa,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,25.0,unspecified,01-Jul-2015,Jul,N,M
+122,2015.06.30.a,2015,Unprovoked,usa,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,12.0,unspecified,30-Jun-2015,Jun,N,M
+123,2015.06.27.b,2015,Unprovoked,usa,North Carolina,"Rodanthe, Dare County",Swimming,18.0,bull shark,27-Jun-2015,Jun,N,M
+124,2015.06.27.a,2015,Unprovoked,south africa,Western Cape Province,Buffels Bay near Knysna,Body Boarding,19.0,white shark,27-Jun-2015,Jun,N,M
+125,2015.06.26.b,2015,Unprovoked,south africa,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,23.0,white shark,26-Jun-2015,Jun,N,M
+126,2015.06.26.a,2015,Unprovoked,usa,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,43.0,unspecified,26-Jun-2015,Jun,N,M
+127,2015.06.24.b,2015,Unprovoked,usa,North Carolina,Surf City,Swimming,6.0,tiger shark,24-Jun-2015,Jun,N,M
+128,2015.06.24.a,2015,Invalid,australia,Western Australia,Denmark,Surfing,37.0,white shark,24-Jun-2015,Jun,N,F
+129,2015.06.14.b,2015,Unprovoked,usa,North Carolina,"Oak Island, Brunswick County",Wading,16.0,bull shark,14-Jun-2015,Jun,N,M
+130,2015.06.14.a,2015,Unprovoked,usa,North Carolina,"Oak Island, Brunswick County",Wading,12.0,bull shark,14-Jun-2015,Jun,N,F
+131,2015.06.11,2015,Unprovoked,usa,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,13.0,unspecified,11-Jun-2015,Jun,N,F
+132,2015.06.07,2015,Unprovoked,usa,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,11.0,bull shark,07-Jun-2015,Jun,N,M
+133,2015.06.01,2015,Unprovoked,reunion,Le Port,Folette,Surfing,47.0,bull shark,01-Jun-2015,Jun,N,M
+134,2015.05.25,2015,Unprovoked,french polynesia,Rangiroa,Avatoru Pass,Spearfishing,19.0,unspecified,25-May-2015,May,N,M
+135,2015.05.20,2015,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,18.0,unspecified,20-May2015,,N,M
+136,2015.05.02,2015,Unprovoked,south africa,Eastern Cape Province,Port St. John's,Diving,29.0,white shark,02-May-2015,May,N,M
+137,2015.04.26,2015,Unprovoked,usa,Florida,"Resident's Beach, Marco Island",Wading,63.0,unspecified,26-Apr-2015,Apr,N,M
+138,2015.04.25,2015,Unprovoked,australia,South Australia,Fishery Bay,Surfing,26.0,white shark,25-Apr-2015,Apr,N,M
+139,2015.04.24.c,2015,Unprovoked,australia,New South Wales,"Belongil Beach, Byron Bay",Surf skiing ,25.0,white shark,24-Jun-2015,Jun,N,M
+140,2015.04.12,2015,Unprovoked,reunion,Saint-Gilles-les-Bains,Cap Homard,Surfing,13.0,bull shark,12-Apr-2015,Apr,Y,M
+141,2015.04.03,2015,Unprovoked,usa,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,25.0,bull shark,03-Apr-2015,Apr,N,M
+142,2015.03.31,2015,Invalid,brazil,Pernambuco,"Praia del Chifre, Olinda",Surfing,23.0,unspecified,31-Mar-2015,Mar,Unknown,M
+143,2015.03.18,2015,Unprovoked,usa,Hawaii,Hapuna Beach,Standing / Snorkeling,58.0,tiger shark,18-Mar-2015,Mar,N,M
+144,2015.03.16,2015,Unprovoked,french polynesia,Bora Bora,Anau,Hand feeding sharks,9.0,unspecified,16-Mar-2015,Mar,N,M
+145,2015.02.14,2015,Unprovoked,reunion,dÉtang-Salé,Ravine Mula,Swimming,22.0,tiger shark,14-Feb-2015,Feb,Y,F
+146,2015.02.09,2015,Unprovoked,australia,New South Wales,Shelly Beach,Surfing,41.0,unspecified,09-Feb-2015,Feb,Y,M
+147,2015.02.08,2015,Unprovoked,australia,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,35.0,unspecified,08-Feb-2015,Feb,N,M
+148,2015.01.30,2015,Boating,australia,Queensland,"Nerang River, Surfer's  Paradise",Rowing,57.0,bull shark,30-Jan-2015,Jan,N,M
+149,2015.01.27,2015,Provoked,usa,Hawaii,Lahaina,Shark fishing,20.0,unspecified,27-Jan-2015,Jan,N,M
+150,2015.01.06,2015,Unprovoked,bahamas,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,34.0,white shark,06-Jan-2015,Jan,N,F
+151,2015.01.03,2015,Unprovoked,south africa,Eastern Cape Province,Chintsa East Beach,Surfing,15.0,unspecified,03-Jan-2015,Jan,N,M
+152,2014.12.29.a,2014,Unprovoked,australia,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,17.0,white shark,29-Dec-2014,Dec,Y,M
+153,2014.12.28.b,2014,Unprovoked,usa,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,50.0,white shark,28-Dec-2014,Dec,N,M
+154,2014.12.28.a,2014,Provoked,australia,Victoria,Paradise Beach,Fishing,40.0,unspecified,28-Dec-2014,Dec,N,M
+155,2014.12.15,2014,Unprovoked,australia,Queensland,Rudder Reef,Spearfishing,17.0,tiger shark,15-Dec-2014,Dec,Y,M
+156,2014.11.16,2014,Unprovoked,usa,Florida,"Indian Harbor Beach, Brevard County",Surfing,44.0,unspecified,16-Nov-2014,Nov,N,M
+157,2014.11.13,2014,Unprovoked,usa,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,53.0,unspecified,13-Nov-2014,Nov,N,M
+158,2014.10.31,2014,Unprovoked,usa,Hawaii,"North Kohala, Hawaii County",Surfing,34.0,tiger shark,31-Oct-2014,Oct,N,F
+159,2014.10.17,2014,Unprovoked,australia,New South Wales,Avoca Beach,Surfing,13.0,unspecified,17-Oct-2014,Oct,N,F
+160,2014.10.05.b,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,29.0,unspecified,05-Oct-2014,Oct,N,M
+161,2014.10.05.a,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,15.0,unspecified,05-Oct-2014,Oct,N,M
+162,2014.10.02.b,2014,Unprovoked,usa,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,28.0,unspecified,02-Oct-2014,Oct,N,M
+163,2014.10.02.a,2014,Unprovoked,australia,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,23.0,white shark,02-Oct-2014,Oct,N,M
+164,2014.09.09,2014,Unprovoked,australia,New South Wales,"Clarkes Beach, Byron Bay",Swimming,50.0,unspecified,09-Sep-2014,Sep,Y,M
+165,2014.09.06,2014,Unprovoked,usa,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing ,43.0,bull shark,06-Sep-2014,Sep,N,M
+166,2014.09.03,2014,Boating,usa,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,20.0,white shark,03-Sep-2014,Sep,N,F
+167,2014.09.02,2014,Provoked,usa,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,52.0,unspecified,02-Sep-2014,Sep,N,M
+168,2014.08.31,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Body surfing,13.0,unspecified,31-Aug-2014,Aug,N,F
+169,2014.08.08,2014,Unprovoked,usa,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,7.0,bull shark,08-Aug-2014,Aug,N,M
+170,2014.08.06,2014,Unprovoked,usa,South Carolina,"Folly Beach, Charleston County",Boogie boarding,10.0,unspecified,06-Aug-2014,Aug,N,M
+171,2014.08.01,2014,Unprovoked,south africa,Western Cape Province,Muizenberg,Surfing,20.0,white shark,01-Aug-2014,Aug,N,M
+172,2014.07.16,2014,Unprovoked,usa,Hawaii,"Paia Bay, Maui",Swimming,61.0,unspecified,16-Jul-2014,Jul,N,M
+173,2014.07.14,2014,Unprovoked,usa,Florida,Okaloosa Island,Swimming,39.0,unspecified,14-Jul-2014,Jul,N,M
+174,2014.07.13,2014,Invalid,bahamas,West End,Tiger Beach,Shark diving,63.0,unspecified,13-Jul-2014,Jul,Unknown,M
+175,2014.07.03,2014,Unprovoked,usa,South Carolina,"Isle of Palms, Charleston County",Body surfing,19.0,unspecified,3-Jul-2014,Jul,N,M
+176,2014.06.09.b,2014,Unprovoked,usa,Delaware,"Cape Henlopen State Park, Sussex County",Standing,16.0,unspecified,09-Jun-2014,Jun,N,M
+177,2014.06.09.a,2014,Unprovoked,australia,South Australia,"Parsons Beach,  Fleurieu Peninsula",Body boarding,39.0,unspecified,09-Jun-2014,Jun,N,M
+178,2014.06.01.c,2014,Unprovoked,usa,Florida,Fort Lauderdale,Swimming,22.0,bull shark,01-Jun-2014,Jun,N,F
+179,2014.05.14,2014,Unprovoked,australia,South Australia,"Elliston, Eyre Peninsula",Surfing,35.0,white shark,14-May-2014,May,N,M
+180,2014.05.06,2014,Unprovoked,usa,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,40.0,unspecified,06-May-2014,May,N,F
+181,2014.05.01,2014,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,23.0,unspecified,01-May-2014,May,N,M
+182,2014.04.03,2014,Unprovoked,australia,New South Wales,Tathra,Swimming,63.0,white shark,03-Apr-2014,Apr,Y,F
+183,2014.03.29,2014,Invalid,australia,Western Australia,Off Dawesville Cut,Diving for lobsters,38.0,unspecified,29-Mar-2014,Mar,Unknown,M
+184,2014.03.22.b,2014,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,25.0,unspecified,22-Mar-2014,Mar,Y,M
+185,2014.02.20,2014,Unprovoked,french polynesia,Society Islands,Huahine,Kitesurfing,21.0,unspecified,20-Feb-2014,Feb,N,M
+186,2014.02.07,2014,Unprovoked,new zealand,South Island,Porpoise Bay,Surfing,28.0,unspecified,07-Feb-2014,Feb,N,M
+187,2013.12.25,2013,Unprovoked,new caledonia,North Province,"Lindéralique, Hienghène",Snorkeling,37.0,bull shark,25-Dec-2013,Dec,N,M
+188,2013.12.16,2013,Unprovoked,south africa,Western Cape Province,Die Platt,Surfing,19.0,white shark,16-Dec-2013,Dec,N,M
+189,2013.12.11,2013,Unprovoked,usa,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,29.0,tiger shark,11-Dec-2013,Dec,N,M
+190,2013.12.10,2013,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Surfing,30.0,unspecified,10-Dec-2013,Dec,N,M
+191,2013.12.05,2013,Unprovoked,australia,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,26.0,unspecified,05-Dec-2013,Dec,N,M
+192,2013.11.30,2013,Unprovoked,australia,New South Wales,"Riecks Point,  Campbells Beach, ",Body boarding,19.0,tiger shark,30-Nov-2013,Nov,Y,M
+193,2013.11.23.a,2013,Unprovoked,australia,Western Australia,Gracetown,Surfing,35.0,white shark,23-Nov-2013,Nov,Y,M
+194,2013.11.22,2013,Unprovoked,usa,Oregon,"Gleneden Beach, Lincoln County",Surfing,25.0,white shark,22-Nov-2013,Nov,N,M
+195,2013.10.31,2013,Unprovoked,usa,Hawaii,"Kanaha Beach, Maui",Kiteboarding,46.0,tiger shark,31-Oct-2013,Oct,N,M
+196,2013.10.28,2013,Unprovoked,australia,Western Australia,Turquoise Bay,Snorkeling,60.0,unspecified,28-Oct-2013,Oct,N,F
+197,2013.10.26.b,2013,Unprovoked,reunion,dÉtang-Salé,Ravine Mula,Body boarding,24.0,bull shark,26-Oct-2013,Oct,N,M
+198,2013.10.24,2013,Unprovoked,australia,New South Wales,South Narrabeen Beach,Surfing,41.0,unspecified,24-Oct-2013,Oct,N,M
+199,2013.10.23,2013,Unprovoked,usa,Hawaii,"Waiehu, Maui",Diving ,45.0,white shark,23-Oct-2013,Oct,N,M
+200,2013.10.20,2013,Unprovoked,usa,Hawaii,"Pila'a Beach, Kaua'i",Surfing,25.0,tiger shark,20-Oct-2013,Oct,N,M
+201,2013.10.19,2013,Unprovoked,usa,Florida,Miami Beach,Wading,6.0,unspecified,19-Oct-2013,Oct,N,M
+202,2013.10.11,2013,Unprovoked,south africa,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Swimming / snorkeling,25.0,white shark,11-Oct-2013,Oct,Y,M
+203,2013.10.08,2013,Unprovoked,australia,Western Australia,"Off Poison Creek, Cape Arid",Diving for Abalone,55.0,white shark,08-Oct-2013,Oct,N,M
+204,2013.10.05,2013,Unprovoked,usa,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,45.0,white shark,06-Oct-2013,Oct,N,M
+205,2013.09.14,2013,Unprovoked,usa,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,21.0,bull shark, 14-Sep-2013,Sep,N,M
+206,2013.09.12,2013,Unprovoked,usa,Florida,"New Smyrna Beach,  Volusia County",Surfing,13.0,unspecified, 12-Sep-2013,Sep,N,F
+207,2013.09.07.b,2013,Provoked,usa,Florida,"New Smyrna Beach,  Volusia County",Surfing,43.0,unspecified, 07-Sep-2013,Sep,N,M
+208,2013.09.07.a,2013,Unprovoked,usa,Florida,"New Smyrna Beach,  Volusia County",Standing,25.0,unspecified, 07-Sep-2013,Sep,N,M
+209,2013.09.01.a,2013,Unprovoked,usa,Florida,"St Augustine Beach, St Johns County",Casting a net,9.0,unspecified, 01-Sep-2013,Sep,N,M
+210,2013.08.14,2013,Unprovoked,usa,Hawaii,"Makenat, Maui",Snorkeling,20.0,tiger shark, 14-Aug-2013,Aug,Y,F
+211,2013.08.11,2013,Unprovoked,usa,South Carolina,Folly Beach,Surfing,10.0,bull shark,11-Aug-2013,Aug,N,M
+212,2013.08.05,2013,Unprovoked,usa,Florida,"Sanibel Island, Lee County",Fishing,17.0,bull shark, 05-Aug-2013,Aug,N,M
+213,2013.07.29.c,2013,Unprovoked,bahamas,Abaco Islands,Scotland Cay,Spearfishing,40.0,unspecified,28-Jul-2013,Jul,N,M
+214,2013.07.29.a,2013,Unprovoked,usa,Hawaii,"White Plains Beach, Oahu",Surfing,18.0,tiger shark,  29-Jul-2013,Jul,N,M
+215,2013.07.28.b,2013,Unprovoked,bahamas,Exuma Islands,Compass Cay,Cleaning fish,64.0,unspecified,28-Jul-2013,Jul,N,M
+216,2013.06.25.a,2013,Unprovoked,usa,South Carolina,"Kiawah Island, Charleston County",Swimming,14.0,unspecified,25-Jun-2013,Jun,N,M
+217,2013.06.18,2013,Unprovoked,usa,Hawaii,Kona Coast State Park,Swimming,28.0,tiger shark,18-Jun-2013,Jun,N,M
+218,2013.06.14.R,2013,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,10.0,unspecified,Reported 14-Jun-2013,Jun,N,F
+219,2013.05.14,2013,Unprovoked,ecuador,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,29.0,unspecified,14-May-2014,May,N,M
+220,2013.05.08.a,2013,Unprovoked,reunion,Saint-Gilles,Brisant Beach,Body boarding,36.0,bull shark,08-May-2013,May,Y,M
+221,2013.05.04.a,2013,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,16.0,unspecified,04-May-2013,May,N,M
+222,2013.04.24,2013,Unprovoked,mexico,Quintana Roo,"Seagull Beach, Cancun",Swimming,34.0,tiger shark,24-Apr-2013,Apr,N,F
+223,2013.04.21,2013,Unprovoked,australia,New South Wales,Crowdy Head,Fishing,51.0,grey shark,21-Apr-2013,Apr,N,M
+224,2013.04.17,2013,Unprovoked,usa,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,9.0,unspecified,17-Apr-2013,Apr,N,M
+225,2013.04.13.b,2013,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,21.0,bull shark,13-Apr-2013,Apr,N,M
+226,2013.04.10,2013,Unprovoked,french polynesia,Tuamotus,"North Pass, Fakarava",Kite boarding,53.0,unspecified,10-Apr-2013,Apr,N,M
+227,2013.04.02.a,2013,Unprovoked,usa,Hawaii,Kaanapali Shores,Surfing,58.0,unspecified,02-Apr-2013,Apr,N,M
+228,2013.03.16.b,2013,Provoked,south africa,Western Cape Province,De Mond,Fishing - 'tag & release',30.0,unspecified,16-Mar-2013,Mar,N,M
+229,2013.03.12,2013,Unprovoked,jamaica,St. Catherine,Pillikin Red Light area ,Spearfishing,25.0,tiger shark,12-Mar-2013,Mar,Y,M
+230,2013.03.10.b,2013,Unprovoked,australia,Western Australia,African Reef off Geraldton,Spearfishing,28.0,unspecified,10-Mar-2013,Mar,N,M
+231,2013.02.27,2013,Unprovoked,new zealand,North Island,Muriwai,Swimming,46.0,white shark,27-Feb-2013,Feb,Y,M
+232,2013.02.10,2013,Unprovoked,usa,Florida,"""Stuart Rocks"", Martin County",Surfing,16.0,unspecified,10-Feb-2013,Feb,N,M
+233,2013.02.09,2013,Unprovoked,french polynesia,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",Scuba diving,48.0,lemon shark,09-Feb-2013,Feb,N,M
+234,2013.01.16,2013,Unprovoked,usa,Hawaii,Kiholo Bay,Surfing,43.0,tiger shark,16-Jan-2013,Jan,N,M
+235,2012.12.30,2012,Unprovoked,australia,New South Wales,Between Dee Why and Long Reef,Surfing,23.0,unspecified,30-Dec-2012,Dec,N,M
+236,2012.12.28,2012,Unprovoked,australia,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,29.0,bull shark,28-Dec-2012,Dec,N,M
+237,2012.12.19,2012,Unprovoked,australia,Western Australia,Trigg Beach,Surfing,32.0,tiger shark,19-Dec-2012,Dec,N,M
+238,2012.12.05,2012,Unprovoked,usa,Hawaii,Kauai,Surfing,60.0,unspecified,05-Dec-2012,Dec,N,M
+239,2012.12.02,2012,Unprovoked,australia,New South Wales,Green Island,Spearfishing,31.0,tiger shark,02-Dec-2012,Dec,N,M
+240,2012.11.30,2012,Unprovoked,usa,Hawaii,"Kihei, Maui",Snorkeling,61.0,tiger shark,30-Nov-2012,Nov,N,M
+241,2012.11.22,2012,Unprovoked,mexico,Sinaloa,Nuevo Altata,Swimming,32.0,unspecified,22-Nov-2012,Nov,Y,M
+242,2012.11.19,2012,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,14.0,unspecified,19-Nov-2012,Nov,N,M
+243,2012.11.04.b,2012,Unprovoked,usa,Hawaii,"Makena Landing, Maui",Diving,30.0,tiger shark,04-Nov-2012,Nov,N,M
+244,2012.11.04.a,2012,Unprovoked,usa,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,43.0,tiger shark,04-Nov-2012,Nov,N,M
+245,2012.10.30,2012,Unprovoked,usa,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,25.0,white shark,30-Oct-2012,Oct,N,M
+246,2012.10.27,2012,Unprovoked,usa,Hawaii,"Makena Landing, Maui",Swimming,51.0,tiger shark,27-Oct-2012,Oct,N,F
+247,2012.10.23,2012,Unprovoked,usa,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,39.0,white shark,23-Oct-2012,Oct,Y,M
+248,2012.10.18.a,2012,Unprovoked,usa,Hawaii,"Kanaha Beach, Maui",Paddle boarding,55.0,unspecified,18-Oct-2012,Oct,N,M
+249,2012.10.02,2012,Unprovoked,australia,Western Australia,"Mullaloo Beach, Perth",Bodyboarding,11.0,unspecified,02-Oct-2012,Oct,N,M
+250,2012.09.25,2012,Unprovoked,usa,Florida,"Melbourne Beach, Brevard County",Surfing,21.0,unspecified,25-Sep-2012,Sep,N,M
+251,2012.09.24,2012,Unprovoked,usa,Florida,"Spanish House Beach, Brevard County",Surfing,22.0,unspecified,24-Sep-2012,Sep,N,M
+252,2012.09.02.b,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,8.0,unspecified,02-Sep-2012,Sep,N,F
+253,2012.09.02.a,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,56.0,unspecified,02-Sep-2012,Sep,N,F
+254,2012.08.09,2012,Unprovoked,usa,Florida,Key Largo,Free diving ,56.0,lemon shark,08-Aug-2012,Aug,N,M
+255,2012.07.31.a,2012,Unprovoked,australia,South Australia,Streaky Bay,Surfing,48.0,white shark,31-Jul-2012,Jul,N,M
+256,2012.07.30.a,2012,Unprovoked,usa,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,50.0,white shark,30-Jul-2012,Jul,N,M
+257,2012.07.14,2012,Unprovoked,australia,Western Australia,Off Wedge Island,Surfing,24.0,white shark,14-Jul-2012,Jul,Y,M
+258,2012.07.07.a,2012,Boating,usa,California,"Pleasure Point, Santa Cruz County",Kayaking,52.0,unspecified,07-Jul-2012,Jul,N,M
+259,2012.07.06,2012,Unprovoked,south africa,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,29.0,unspecified,06-Jul-2012,Jul,N,M
+260,2012.06.26.c,2012,Unprovoked,usa,Florida,"Juno Beach, Palm Beach County",Swimming,6.0,bull shark,26-Jun-2012,Jun,N,M
+261,2012.06.26.a,2012,Unprovoked,usa,Hawaii,"Kahana Beach, Maui",Sitting in the water,16.0,unspecified,26-Jun-2012,Jun,N,F
+262,2012.06.20,2012,Unprovoked,australia,Western Australia,"Mullaloo Beach, Perth",Surf skiing ,62.0,unspecified,20-Jun-2012,Jun,N,M
+263,2012.06.15,2012,Provoked,usa,Florida,"Summerland Key, Monroe County",Fishing,23.0,unspecified,15-Jun-2012,Jun,N,M
+264,2012.06.14.d,2012,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Swimming,18.0,unspecified,14-Jun-2012,Jun,N,F
+265,2012.06.14.a,2012,Unprovoked,usa,South Carolina,"Myrtle Beach, Horry County",Swimming,16.0,unspecified,14-Jun-2012,Jun,N,M
+266,2012.06.12,2012,Unprovoked,australia,Victoria,Port Campbell,Surfing,42.0,unspecified,12-Jun-2012,Jun,N,M
+267,2012.06.10,2012,Provoked,italy,Sardinia,Muravera,Attempting to rescue an injured & beached shark,57.0,unspecified,10-Jun-2012,Jun,Unknown,M
+268,2012.06.03,2012,Unprovoked,australia,New South Wales,"Redhead Beach, Newcastle",Surf skiing ,30.0,white shark,03-Jun-2012,Jun,N,M
+269,2012.05.31,2012,Unprovoked,usa,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,33.0,unspecified,31-May-2012,May,N,F
+270,2012.05.29,2012,Unprovoked,mexico,Guerrero," Boca de la Leña, La Unión",Free diving / spearfishing,46.0,bull shark,29-May-2012,May,N,M
+271,2012.05.23,2012,Unprovoked,usa,Florida,"Jacksonville, Duval County",Surfing,22.0,unspecified,23-May-2012,May,N,M
+272,2012.05.12,2012,Boating,usa,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,30.0,white shark,12-May-2012,May,N,M
+273,2012.05.06,2012,Unprovoked,usa,California,Off Catalina Island,Paddle boarding,15.0,white shark,06-May-2012,May,N,F
+274,2012.04.19.b,2012,Unprovoked,usa,Florida,"Indialantic, Brevard County",Surfing,28.0,unspecified,19-Apr-2012,Apr,N,M
+275,2012.04.19.a,2012,Unprovoked,south africa,Western Cape Province,Caves near Kogel Bay,Body boarding,20.0,white shark,19-Apr-2012,Apr,Y,M
+276,2012.04.03,2012,Unprovoked,usa,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,28.0,tiger shark,03-Apr-2012,Apr,N,M
+277,2012.03.31,2012,Unprovoked,australia,Western Australia,Stratham Beach,Scuba diving,33.0,white shark,31-Mar-2012,Mar,Y,M
+278,2012.03.20,2012,Unprovoked,australia,Queensland,Nobby's Beach,Surfing,20.0,bull shark,20-Mar-2012,Mar,N,M
+279,2012.03.15,2012,Unprovoked,usa,Florida,"Jensen Beach, Martin County ",Surfing,61.0,bull shark,15-Mar-2012,Mar,N,M
+280,2012.03.14.b,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,15.0,unspecified,14-Mar-2012,Mar,N,F
+281,2012.03.14.a,2012,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,17.0,unspecified,14-Mar-2012,Mar,N,M
+282,2012.03.06.a,2012,Provoked,australia,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",34.0,unspecified,06-Mar-2012,Mar,N,F
+283,2012.03.04,2012,Unprovoked,usa,Florida,"Playalinda Beach, Brevard County",Kite Surfing,19.0,unspecified,04-Mar-2012,Mar,N,M
+284,2012.01.19,2012,Unprovoked,australia,Western Australia,Coral Bay,Snorkeling,26.0,tiger shark,19-Jan-2012,Jan,N,M
+285,2012.01.18.a,2012,Unprovoked,australia,New South Wales,Redhead Beach,Surfing,44.0,white shark,18-Jan-2012,Jan,N,M
+286,2012.01.15,2012,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,25.0,bull shark,15-Jan-2012,Jan,Y,M
+287,2012.01.03,2012,Unprovoked,australia,New South Wales,North Avoca Beach,Surfing,28.0,unspecified,03-Jan-2012,Jan,N,M
+288,2012.01.02,2012,Unprovoked,australia,Queensland,Duranbah,Spearfishing,34.0,tiger shark,02-Jan-2012,Jan,N,M
+289,2011.12.11,2011,Unprovoked,australia,New South Wales,Angourie,Surfing,51.0,white shark,11-Dec-2011,Dec,N,M
+290,2011.11.28,2011,Unprovoked,australia,Queensland,Peregian,Swimming,10.0,unspecified,28-Nov-2011,Nov,N,M
+291,2011.10.22,2011,Unprovoked,australia,Western Australia,Rottnest Island,Diving,32.0,white shark,22-Oct-2011,Oct,Y,M
+292,2011.10.19,2011,Unprovoked,australia,Victoria,Elwood Beach,Diving,50.0,unspecified,19-Oct-2011,Oct,N,M
+293,2011.09.30,2011,Invalid,usa,Puerto Rico,Hatillo Beach,Surfing,27.0,unspecified,30-Sep-2011,Sep,Unknown,M
+294,2011.09.28.a,2011,Unprovoked,south africa,Western Cape Province,Clovely Beach,Swimming,43.0,white shark,28-Sep-2011,Sep,N,M
+295,2011.09.24.b,2011,Unprovoked,usa,Florida,"Santa Maria Island, Manatee County",Spearfishing,21.0,bull shark,24-Sep-2011,Sep,N,M
+296,2011.09.16,2011,Unprovoked,usa,Florida,New Smyrna Beach,Surfing,25.0,unspecified,16-Sep-2011,Sep,N,M
+297,2011.09.11.a,2011,Unprovoked,papua new guinea,Central Province,"Hula, near Port Moresby",Kite Surfing,30.0,tiger shark,11-Sep-2011,Sep,N,M
+298,2011.09.04.a,2011,Unprovoked,australia,Western Australia, Bunker Bay,Body boarding,21.0,white shark,04-Sep-2011,Sep,Y,M
+299,2011.09.02,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,19.0,unspecified,02-Sep-2011,Sep,N,M
+300,2011.08.31,2011,Unprovoked,usa,Florida,Crescent Beach St. Johns County,Surfing,19.0,unspecified,31-Aug-2011,Aug,N,M
+301,2011.08.28.b,2011,Invalid,australia,Queensland,Fantome Island,Swimming,48.0,unspecified,28-Aug-2011,Aug,Unknown,M
+302,2011.08.23,2011,Unprovoked,south africa,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,49.0,white shark,23-Aug-2011,Aug,Y,M
+303,2011.08.17.c.,2011,Unprovoked,usa,North Carolina,"Kure Beach, New Hanover County",Wading,20.0,tiger shark,17-Aug-2011,Aug,N,F
+304,2011.08.17.a,2011,Unprovoked,russia,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Vityaz,Swimming,25.0,unspecified,17-Aug-2011,Aug,N,M
+305,2011.08.16.c,2011,Unprovoked,french polynesia,Society Islands,"Teahupoo, Tahiti",Surfing,32.0,grey shark,16-Aug-2011,Aug,N,M
+306,2011.08.16.a,2011,Unprovoked,seychelles,Praslin,Anse Lazio ,Swimming or Snorkeling,30.0,bull shark,16-Aug-2011,Aug,Y,M
+307,2011.07.22,2011,Unprovoked,south africa,Eastern Cape Province,"Cintza Beach, East London",Surfing,29.0,white shark,22-Jul-2011,Jul,N,M
+308,2011.06.28,2011,Unprovoked,south africa,KwaZulu-Natal,Aliwal Shoal,Scuba diving,22.0,bull shark,28-Jun-2011,Jun,N,M
+309,2011.06.26,2011,Unprovoked,usa,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,10.0,bull shark,26-Jun-2008,Jun,N,F
+310,2011.06.12,2011,Unprovoked,usa,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,28.0,unspecified,12-Jun-2011,Jun,N,M
+311,2011.06.06.a,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Wading,19.0,unspecified,06-Jun-2011,Jun,N,M
+312,2011.05.21.b,2011,Unprovoked,south africa,KwaZulu-Natal,Levan Point,Spearfishing,28.0,unspecified,21-May-2011,May,Y,M
+313,2011.05.21.a,2011,Unprovoked,new caledonia,North Province,Kendec,Kite Boarding,15.0,tiger shark,21-May-2011,May,Y,M
+314,2011.04.23,2011,Unprovoked,australia,Western Australia,Red Bluffs,Washing sand off a speared fish,17.0,unspecified,23-Apr-2011,Apr,N,M
+315,2011.04.22,2011,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing ,49.0,unspecified,22-Apr-2011,Apr,N,M
+316,2011.04.16,2011,Unprovoked,new zealand,South Island,Snapper Point,Surfing,41.0,unspecified,16-Apr-2011,Apr,N,M
+317,2011.03.23,2011,Unprovoked,australia,New South Wales,Crowdy Head,Surfing,48.0,bull shark,23-Mar-2011,Mar,N,M
+318,2011.03.16,2011,Unprovoked,australia,New South Wales,"Jimmys Beach, Port Stephens",Wakeboarding,24.0,unspecified,16-Mar-2011,Mar,N,F
+319,2011.02.28.R,2011,Provoked,australia,Queensland,Between ,Fishing,36.0,bull shark,Reported 28-Feb-2011,Feb,N,M
+320,2011.02.23,2011,Unprovoked,new caledonia, Loyalty Islands,"Bay of Bweedro, Ouvéa",Spearfishing,21.0,unspecified,23-Feb-2011,Feb,N,M
+321,2011.02.17,2011,Unprovoked,australia,South Australia,Off Perforated Island near Coffin Bay,Diving for abalone,49.0,white shark,17-Feb-2011,Feb,Y,M
+322,2011.01.31,2011,Unprovoked,mexico,Quintana Roo,Cancun,Swimming,38.0,unspecified,31-Jan-2011,Jan,N,F
+323,2011.01.26,2011,Unprovoked,bahamas,West End,Tiger Beach,Scuba diving,55.0,unspecified,26-Jan-2011,Jan,N,M
+324,2011.01.20,2011,Invalid,australia,New South Wales,Cudgen Creek ,Swimming,7.0,unspecified,20-Jan-2011,Jan,Unknown,F
+325,2010.12.26,2010,Unprovoked,usa,Hawaii," Kahului, Maui",Body boarding,16.0,unspecified,26-Dec-2010,Dec,N,M
+326,2010.12.05,2010,Unprovoked,egypt,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh",Snorkeling,25.0,white shark,05-Dec-2010,Dec,Y,F
+327,2010.12.01.b,2010,Unprovoked,egypt,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,54.0,unspecified,01-Dec-2010,Dec,N,M
+328,2010.12.01.a,2010,Unprovoked,egypt,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",Snorkeling,46.0,unspecified,01-Dec-2010,Dec,N,M
+329,2010.11.30.b,2010,Unprovoked,egypt,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,25.0,white shark,30-Nov-2010,Nov,N,F
+330,2010.11.30.a,2010,Unprovoked,egypt,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",Snorkeling,48.0,white shark,30-Nov-2010,Nov,N,F
+331,2010.10.30,2010,Unprovoked,australia,Western Australia,Off Garden Island,Snorkeling,20.0,white shark,30-Oct-2010,Oct,N,F
+332,2010.10.23.b,2010,Unprovoked,usa,Maine,"Burnt Cove near Eastport, Washington County",Scuba diving,30.0,unspecified,23-Oct-2010,Oct,N,M
+333,2010.10.22,2010,Unprovoked,usa,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,19.0,white shark,22-Oct-2010,Oct,Y,M
+334,2010.10.09,2010,Unprovoked,australia,New South Wales,Mullaway Headland,Surfing,22.0,bull shark,09-Oct-2010,Oct,N,M
+335,2010.09.27,2010,Unprovoked,usa,Oregon,Winchester Bay,Surfing,29.0,white shark,27-Sep-2010,Sep,N,M
+336,2010.09.13,2010,Unprovoked,australia,New South Wales,Fraser's Reef,Surfing,15.0,unspecified, 13-Sep-2010,Sep,N,M
+337,2010.08.17,2010,Unprovoked,australia,Western Australia,Cowaramup Bay,Surfing,31.0,white shark,17-Aug-2010,Aug,Y,M
+338,2010.08.02.a,2010,Unprovoked,usa,Florida,"Micklers Landing, St. Johns County",Standing,37.0,unspecified,02-Aug-2010,Aug,N,F
+339,2010.07.19,2010,Unprovoked,usa,South Carolina,Myrtle Beach,Swimming,10.0,unspecified,19-Jul-2010,Jul,N,M
+340,2010.07.17.b,2010,Unprovoked,usa,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,13.0,tiger shark,17-Jul-2010,Jul,N,F
+341,2010.07.16.b,2010,Provoked,spain,Grand Canary Island,"Sardina del Norte, Gáldar",Swimming,9.0,unspecified,16-Jul-2010,Jul,N,M
+342,2010.07.03,2010,Provoked,usa,New York,Off Long Island,Fishing,20.0,unspecified,03-Jul-2010,Jul,N,M
+343,2010.07.02.b,2010,Unprovoked,usa,California,"Pismo Beach, San Luis  Obispo County",Surfing,19.0,unspecified,02-Jul-2010,Jul,N,M
+344,2010.07.02.a,2010,Unprovoked,usa,California,"Dog Patch, San Onofre",Stand-Up Paddleboarding,48.0,unspecified,02-Jul-2010,Jul,N,M
+345,2010.06.15,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Swimming,17.0,unspecified,15-Jun-2010,Jun,N,M
+346,2010.06.10,2010,Unprovoked,usa,Florida,Jacksonville,Boogie Boarding,18.0,unspecified,10-Jun-2010,Jun,N,F
+347,2010.05.30,2010,Provoked,usa,Florida,Off Tarpon Springs,Fishing,49.0,lemon shark,30-May-2010,May,N,M
+348,2010.05.18.c,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Rescuing,58.0,unspecified,18-May-2010,May,N,F
+349,2010.05.18.b,2010,Unprovoked,vietnam,Binh Dinh Province,Quy Nhon ,Swimming,60.0,unspecified,18-May-2010,May,N,F
+350,2010.05.01,2010,Unprovoked,usa,Florida,New Smyrna Beach,Wading,10.0,unspecified,01-May-2010,May,N,F
+351,2010.04.28,2010,Provoked,usa,Florida,Hanalei Bay,Measuring sharks,29.0,lemon shark,28-Apr-2010,Apr,N,M
+352,2010.04.19,2010,Unprovoked,usa,Hawaii,"Hanalei Bay, Kauai",Surfing,25.0,unspecified,19-Apr-2010,Apr,N,M
+353,2010.04.13,2010,Unprovoked,south africa,Eastern Cape Province,"East Beach, Port Alfred",Surfing,35.0,unspecified,13-Apr-2010,Apr,N,M
+354,2010.04.04,2010,Unprovoked,egypt,Sinai Peninsula,Sharm el-Sheikh ,Swimming / treading water,24.0,white shark,04-Apr-2010,Apr,N,M
+355,2010.03.27,2010,Unprovoked,reunion,Saint-Benoit,Bittern,Surfing,34.0,unspecified, 27-Mar-2010,Mar,N,M
+356,2010.02.13,2010,Unprovoked,australia,Queensland,"Dent Island, Whitsundays",Snorkeling,60.0,unspecified,13-Feb-2010,Feb,N,F
+357,2010.02.11,2010,Unprovoked,australia,New South Wales,"Mona Vale Beach, Sydney",Surfing,46.0,unspecified,11-Feb-2010,Feb,N,M
+358,2010.02.06.b,2010,Unprovoked,australia,New South Wales,Turners' Beach,Body boarding,18.0,white shark,06-Feb-2010,Feb,N,M
+359,2010.02.04,2010,Invalid,guam,Merizo,Achang Reef,Spearfishing (free diving),31.0,unspecified,04-Feb-2010,Feb,Unknown,M
+360,2010.02.01,2010,Provoked,new zealand,South Island,Oreti Beach,Boogie Boarding,14.0,unspecified,01-Feb-2010,Feb,N,F
+361,2010.01.12,2010,Unprovoked,south africa,Western Province,Fish Hoek,Standing,37.0,white shark,12-Jan-2010,Jan,Y,M
+362,2009.12.22,2009,Unprovoked,mozambique,Maputo Province,Ponta do Ouro,Swimming,27.0,unspecified,22-Dec-2009,Dec,N,M
+363,2009.12.20.a,2009,Unprovoked,australia,Queensland,Lamont Reef,Spearfishing,18.0,bull shark,20-Dec-2009,Dec,N,M
+364,2009.12.06,2009,Provoked,usa,New Jersey,"Adventure Aquarium, Camden",Diving,58.0,tiger shark,05-Dec-2009,Dec,N,M
+365,2009.11.25,2009,Invalid,usa,California,"Huntington Beach, Orange County",Surfing,49.0,unspecified,25-Nov-2009,Nov,Unknown,M
+366,2009.11.24,2009,Unprovoked,usa,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",Wading,10.0,unspecified,24-Nov-2009,Nov,N,M
+367,2009.11.16.b,2009,Unprovoked,usa,California,"Loch Lomond, Marin County",Fishing,31.0,unspecified,16-Nov-2009,Nov,N,M
+368,2009.11.11,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,18.0,unspecified,11-Nov-2009,Nov,N,M
+369,2009.11.08,2009,Unprovoked,australia,South Australia,Second Valley,Kayaking,25.0,unspecified,08-Nov-2009,Nov,N,M
+370,2009.10.30,2009,Boating,australia,Victoria,Portland,Kayaking,27.0,white shark,30-Oct-2009,Oct,N,M
+371,2009.10.19,2009,Unprovoked,usa,Hawaii,"Kalama Park, Maui",Surfing,54.0,unspecified,19-Oct-2009,Oct,N,M
+372,2009.10.17,2009,Provoked,scotland,Fife,Deep Sea World Aquarium,Diving,23.0,unspecified,17-Oct-2009,Oct,N,M
+373,2009.10.02,2009,Provoked,united kingdom,Devon,Mewstone Rock,Fishing,39.0,unspecified,02-Oct-2009,Oct,N,M
+374,2009.09.12,2009,Invalid,usa,North Carolina,"Corolla, Currituck County",Swimming,60.0,unspecified,12-Sep-2009,Sep,Y,M
+375,2009.08.29,2009,Unprovoked,south africa,Western Cape Province,Glentana,Surfing,25.0,white shark,29-Aug-2009,Aug,Y,M
+376,2009.08.25,2009,Unprovoked,usa,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,22.0,white shark,25-Aug-2009,Aug,N,F
+377,2009.08.01,2009,Unprovoked,usa,Louisiana,"Curlew Island, Breton Sound",Wade Fishing,56.0,bull shark,01-Aug-2009,Aug,N,M
+378,2009.07.04,2009,Provoked,usa,Florida,"Biscayne National Park, Miami",Swimming,43.0,unspecified,04-Jul-2009,Jul,N,F
+379,2009.06.27,2009,Unprovoked,australia,New South Wales,"Seven Mile Beach, Gerroa",Surfing,52.0,unspecified,27-Jun-2009,Jun,N,M
+380,2009.06.16,2009,Invalid,usa,Florida,"Melbourne Beach, Brevard County",Crawling,14.0,unspecified,16-Jun-2009,Jun,Unknown,M
+381,2009.06.01,2009,Unprovoked,egypt,St. Johns Reef,Habili Gafar,Snorkeling,50.0,white shark,01-Jun-2009,Jun,Y,F
+382,2009.05.31,2009,Provoked,taiwan,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13  ,Fishing,46.0,unspecified,31-May-2009,May,N,M
+383,2009.05.17,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,31.0,unspecified,17-May-2009,May,N,M
+384,2009.05.16.b,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,49.0,unspecified,16-May-2009,May,N,M
+385,2009.05.16.a,2009,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,55.0,unspecified,16-May-2009,May,N,M
+386,2009.05.12,2009,Provoked,guam,North Region,Ritidian Point,Spearfishing,27.0,unspecified,12-May-2009,May,N,M
+387,2009.04.17.,2009,Unprovoked,usa,Florida,"Walton Rocks, St Lucie County",Surfing,31.0,unspecified,17-Apr-2009,Apr,N,M
+388,2009.04.12,2009,Unprovoked,australia,New South Wales,Fingal Bay,Surf skiing ,40.0,unspecified,12-Apr-2009,Apr,N,M
+389,2009.04.06.b,2009,Invalid,south africa,KwaZulu-Natal,Umtentweni,Swimming,24.0,unspecified,06-Apr-2009,Apr,Unknown,M
+390,2009.03.20,2009,Unprovoked,australia,New South Wales,Blue Bay,Surfing,17.0,unspecified,20-Mar-2009,Mar,N,M
+391,2009.03.18.a,2009,Unprovoked,usa,Florida,"Ponce Inlet, Volusia County",Surfing,17.0,unspecified,18-Mar-2009,Mar,N,F
+392,2009.03.17,2009,Unprovoked,usa,Hawaii,Alenuihaha Channel,Swimming,61.0,unspecified,17-Mar-2009,Mar,N,M
+393,2009.03.02,2009,Provoked,south africa,Western Cape Province,Off Cape Point,Fishing,40.0,unspecified,02-Mar-2009,Mar,N,M
+394,2009.03.01.a,2009,Unprovoked,australia,New South Wales,Avalon,Surfing,15.0,unspecified,01-Mar-2009,Mar,N,M
+395,2009.02.12,2009,Unprovoked,australia,New South Wales,"Bondi Beach, Sydney",Surfing,33.0,white shark,12-Feb-2009,Feb,N,M
+396,2009.02.11,2009,Unprovoked,australia,New South Wales,"Garden Point, Woolloomooloo Sydney Harbour","Diving, but on the surface when bitten by the shark",31.0,bull shark,11-Feb-2009,Feb,N,M
+397,2009.02.07.b,2009,Unprovoked,australia,New South Wales,Cellito Beach,Surfing,41.0,white shark,07-Feb-2009,Feb,N,M
+398,2009.01.25,2009,Unprovoked,cuba,Guantanamo Province,Guantanamo Bay,Spearfishing,15.0,bull shark,25-Jan-2009,Jan,N,M
+399,2009.01.24.a,2009,Unprovoked,south africa,Eastern Cape Province,"Second Beach, Port St. John's",Swimming,25.0,tiger shark,24-Jan-2009,Jan,Y,M
+400,2009.01.12,2009,Unprovoked,australia,New South Wales,"Windang,       Lake Illawara",Snorkeling,24.0,unspecified,12-Jan-2009,Jan,N,M
+401,2009.01.11.b,2009,Unprovoked,australia,Tasmania,Binalong Bay,Surfing,13.0,white shark,11-Jan-2009,Jan,N,F
+402,2009.01.11.a,2009,Unprovoked,australia,New South Wales,Fingal Beach,Surfing,31.0,white shark,11-Jan-2009,Jan,N,M
+403,2009.01.06,2009,Unprovoked,new zealand,North Island,Haumoana ,Swimming,49.0,unspecified,06-Jan-2009,Jan,N,M
+404,2008.12.27.b,2008,Boating,australia,New South Wales,"Long Reef, north of Sydney",Kayaking,29.0,white shark,27-Dec-2008,Dec,N,M
+405,2008.12.27.a,2008,Unprovoked,australia,Western Australia,Port Kennedy Beach,Snorkeling,51.0,white shark,27-Dec-2008,Dec,Y,M
+406,2008.12.10,2008,Provoked,south africa,Western Cape Province,Plettenberg Bay,Fishing,15.0,unspecified,10-Dec-2008,Dec,N,M
+407,2008.10.22,2008,Provoked,australia,New South Wales,"Oceanworld, Manley",Scuba diving,34.0,grey shark,22-Oct-2008,Oct,N,M
+408,2008.10.06,2008,Unprovoked,croatia," Split-Dalmatia Count,","Smokvina Bay, Vis Island",Spearfishing,43.0,white shark,06-Oct-2008,Oct,N,M
+409,2008.09.28.a,2008,Unprovoked,usa,Florida,Bethune Beach,Surfing,40.0,unspecified,28-Sep-2008,Sep,N,M
+410,2008.09.15,2008,Provoked,australia,Northern Territory,Near Croker Island,Swimming,43.0,unspecified,15-Sep-2008,Sep,N,M
+411,2008.09.09,2008,Unprovoked,usa,Hawaii,"Ka'a'awa, Oahu",Surfing,40.0,tiger shark,09-Sep-2008,Sep,N,M
+412,2008.09.07,2008,Unprovoked,australia,New South Wales,"Clarks Beach, Byron Bay",Surfing,51.0,unspecified,07-Sep-2008,Sep,N,M
+413,2008.09.01,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,52.0,unspecified,01-Sep-2008,Sep,N,M
+414,2008.08.30.b,2008,Invalid,usa,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i ",Swimming,27.0,unspecified,30-Aug-2008,Aug,Unknown,M
+415,2008.08.27,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,26.0,unspecified,27-Aug-2008,Aug,N,M
+416,2008.08.22,2008,Invalid,usa,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,20.0,unspecified,24-Aug-2008,Aug,Unknown,F
+417,2008.08.16,2008,Unprovoked,usa,US Virgin Islands,Buck Island,Treading water,38.0,bull shark,16-Aug-2008,Aug,N,F
+418,2008.07.30.R,2008,Unprovoked,australia,Victoria,Levys Beach,Surfing,31.0,white shark,30-Jul-2008,Jul,N,M
+419,2008.07.24.a,2008,Unprovoked,usa,North Carolina,"Topsail Island, Pender County",Wading,8.0,unspecified,24-Jul-2008,Jul,N,F
+420,2008.07.19,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Wading,16.0,unspecified,19-Jul-2008,Jul,N,M
+421,2008.06.28.c,2008,Invalid,usa,Hawaii,"Kamilo Point, Hawai'i",Wading,53.0,unspecified,28-Jun-2008,Jun,Unknown,M
+422,2008.06.28.a,2008,Unprovoked,south africa,Western Cape Province,Mossel Bay,Surf skiing ,46.0,white shark,28-Jun-2008,Jun,N,M
+423,2008.06.26.a,2008,Unprovoked,usa,South Carolina,"Isle of Palms, Charleston County",Swimming,37.0,unspecified,26-Jun-2008,Jun,N,M
+424,2008.06.21,2008,Boating,usa,California,"West Cove, Catalina Island",Kayaking,40.0,white shark,21-Jun-2008,Jun,N,F
+425,2008.06.01.b,2008,Unprovoked,usa,South Carolina,Cherry Grove,Body surfing,15.0,unspecified,01-Jun-2008,Jun,N,F
+426,2008.06.01.a,2008,Unprovoked,brazil,Pernambuco,"Piedade, Recife",Swimming,14.0,bull shark,01-Jun-2008,Jun,N,M
+427,2008.05.24.a,2008,Unprovoked,mexico,Guerro,Playa Linda,Surfing,49.0,unspecified,24-May-2008,May,N,M
+428,2008.05.10,2008,Unprovoked,australia,Western Australia,Albany,Swimming,37.0,white shark,10-May-2008,May,N,M
+429,2008.05.07.b,2008,Unprovoked,new caledonia,North Province,Hienghène,Fishing,40.0,bull shark,07-May-2008,May,N,M
+430,2008.04.28.b,2008,Unprovoked,mexico,Guerro,Troncones Beach,Surfing,24.0,tiger shark,28-Apr-2008,Apr,Y,M
+431,2008.04.28.a,2008,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,18.0,unspecified,28-Apr-2008,Apr,N,M
+432,2008.04.26.b,2008,Unprovoked,new caledonia,North Province,Poindimié,Swimming,32.0,bull shark,26-Apr-2008,Apr,N,M
+433,2008.04.25,2008,Unprovoked,usa,California,"Solana Beach, San Diego County",Swimming,25.0,white shark,25-Apr-2008,Apr,Y,M
+434,2008.04.18,2008,Invalid,mexico,Quintana Roo,"Delfines Beach, Cancun",Swimming,32.0,unspecified,18-Apr-2008,Apr,Unknown,M
+435,2008.04.17,2008,Invalid,australia,Queensland,"Duranbah, Greenmount Beach",Surfing,19.0,unspecified,17-Apr-2008,Apr,Unknown,M
+436,2008.04.15,2008,Unprovoked,usa,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,30.0,unspecified,15-Apr-2008,Apr,N,M
+437,2008.04.08,2008,Unprovoked,australia,New South Wales,"Lighthouse Beach, Ballina",Body boarding,16.0,bull shark,08-Apr-2008,Apr,Y,M
+438,2008.03.28.b,2008,Unprovoked,usa,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,52.0,unspecified,28-Mar-2008,Mar,N,M
+439,2008.03.23,2008,Unprovoked,usa,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Walking out of the water after surfing,13.0,unspecified,23-Mar-2008,Mar,N,M
+440,2008.03.15,2008,Unprovoked,usa,Florida,"Lovers Key State Park, Bonita Springs, Lee County",Jet skiing,8.0,unspecified,15-Mar-2008,Mar,N,M
+441,2008.03.07,2008,Unprovoked,usa,California," Huntington Beach, Orange County",Surfing,27.0,white shark,07-Mar-2008,Mar,N,M
+442,2008.02.24,2008,Unprovoked,bahamas,Northern Bahamas,"Dive site known as ""The End of the Map""",Diving,49.0,bull shark,24-Feb-2008,Feb,Y,M
+443,2008.01.27,2008,Provoked,australia,Queensland,200 km east of Coolangatta  ,Accidentally stood on hooked shark's tail before attempting to gut it ,20.0,unspecified,27-Jan-2008,Jan,N,M
+444,2007.12.18,2007,Unprovoked,australia,New South Wales,Jimmy's Beach,Surfing,31.0,unspecified,18-Dec-2007,Dec,N,M
+445,2007.12.14,2007,Invalid,australia,New South Wales,Bondi ,Swimming,34.0,unspecified,14-Dec-2007,Dec,Unknown,M
+446,2007.12.10,2007,Unprovoked,usa,Hawaii,"Waialua Bay, O'ahu",Surfing,52.0,tiger shark,10-Dec-2007,Dec,N,M
+447,2007.11.07,2007,Unprovoked,south africa,Western Cape Province,The Strand,Surfing,14.0,unspecified,07-Nov-2007,Nov,N,M
+448,2007.11.06,2007,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,21.0,unspecified,06-Nov-2007,Nov,N,M
+449,2007.11.04,2007,Unprovoked,usa,Florida,"Round Island Park, Indian River County",Surfing,42.0,unspecified,04-Nov-2007,Nov,N,M
+450,2007.11.03,2007,Unprovoked,south africa,Eastern Cape Province,Bonza Bay,Surfing,37.0,white shark,03-Nov-2007,Nov,N,M
+451,2007.10.29,2007,Unprovoked,usa,Hawaii,"Wailea, Maui",Floating,32.0,tiger shark,29-Oct-2007,Oct,N,M
+452,2007.10.15,2007,Unprovoked,australia,New South Wales,Byron Bay,Surf-skiing,52.0,white shark,15-Oct-2007,Oct,N,F
+453,2007.10.13,2007,Unprovoked,australia,Queensland,Holmes Reef,Spearfishing,31.0,unspecified,13-Oct-2007,Oct,N,M
+454,2007.10.07,2007,Unprovoked,usa,California,"Venice Pier, Venice, Los Angeles County",Surfing,22.0,unspecified,07-Oct-2007,Oct,N,M
+455,2007.10.06,2007,Unprovoked,usa,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,16.0,unspecified,06-Oct-2007,Oct,N,M
+456,2007.09.30.a,2007,Unprovoked,new caledonia,Loyalty Islands,"Bay of Luengoni, Lifou Island",Swimming,23.0,tiger shark,30-Sep-2007,Sep,Y,F
+457,2007.09.28,2007,Unprovoked,bahamas,Grand Bahama Island,Sweetings Cay,Spearfishing,48.0,unspecified,28-Sep-2007,Sep,N,F
+458,2007.09.27.a,2007,Unprovoked,egypt,Red Sea,Daedalus Reef ,Swimming,19.0,white shark,27-Sep-2007,Sep,N,F
+459,2007.09.20,2007,Unprovoked,usa,Florida,"New Smyrna Beach, Volusia County",Surfing,23.0,unspecified,20-Sep-2007,Sep,N,M
